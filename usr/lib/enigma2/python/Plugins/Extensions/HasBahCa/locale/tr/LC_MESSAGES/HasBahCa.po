@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Erişim reddedildi veya yanlış PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Tebrikler! Zaten en son sürüme sahipsiniz..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Güncellemeyi ( %s ) şimdi yüklemek istiyor musunuz?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "İndirme Başarısız!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "İndirildi: %d dosya"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "TÜM oynatma listeleri indiriliyor..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Sürüm kontrol edilirken hata oluştu: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Başarısız oldu: %d dosya\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Bu kategoriyi filtrele..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Güncellemeyi Zorla (Geliştirici)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Bana birkaç saniye ver... veriler yükleniyor"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa Favoriler Listesi kaldırıldı"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Veri yükleniyor... Lütfen bekleyin"
 
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Lütfen şimdi seçin..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Kaldırmak"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Tüm HasBahCa Favori Buketleri kaldırılsın mı?"
 
 msgid "Select"
-msgstr ""
+msgstr "Seçme"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Güncelleme türünü seçin:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Favori %s Listesini Karıştır Devam Ediyor"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Başarıyla indirildi: %d dosya\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Güncelleme İptal Edildi!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "M3U Çalma Listelerini GitHub'dan güncelleyin"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Eklentiyi yeni sürüme güncelleyin"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Bekle lütfen..."

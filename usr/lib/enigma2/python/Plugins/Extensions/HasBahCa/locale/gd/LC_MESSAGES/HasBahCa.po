@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Cothrom air a dhiùltadh no PIN ceàrr"
 
 msgid "Back"
-msgstr ""
+msgstr "Air ais"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Mealaibh ur naidheachd! Tha an tionndadh as ùire agad mu thràth ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "A bheil thu airson ùrachadh ( %s ) a stàladh an-dràsta?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Dh'fhàillig an luchdachadh sìos !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Luchdaich a-nuas: %d faidhlichean"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "A luchdadh a-nuas a h-uile clàr ceòladair.. ."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Thachair mearachd le sgrùdadh an tionndaidh: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ar-a-mach"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Dh'fhàillig: %d faidhle\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Criathraich an roinn seo..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Ùrachadh feachd (Leasaiche)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Thoir dhomh diog no dhà ... a 'luchdachadh an dàta"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Chaidh Liosta Favorites HasBahCa a thoirt air falbh"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "A' luchdachadh dàta... Fuirich ort"
 
 msgid "Options"
-msgstr ""
+msgstr "Roghainnean"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Feuch an tagh thu a-nis ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Thoir air falbh"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Thoir air falbh a h-uile Bouquet as fheàrr le HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Tagh"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Tagh an seòrsa ùrachaidh:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Suidhich an liosta %s as fheàrr leat a’ dol air adhart"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Chaidh a luchdachadh a-nuas gu soirbheachail: %d faidhle\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ùrachadh air a sguireadh!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Ùraich liostaichean-cluiche M3U bho GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Luchdaich a-nuas am plugan gu tionndadh ùr"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Fuirich mas e do thoil e ..."

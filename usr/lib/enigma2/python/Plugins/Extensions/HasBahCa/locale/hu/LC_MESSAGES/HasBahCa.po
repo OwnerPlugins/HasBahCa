@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Hozzáférés megtagadva vagy rossz PIN-kód"
 
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Gratulálunk! Már megvan a legújabb verzió..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Szeretné most telepíteni a frissítést ( %s )?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Sikertelen letöltés!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Letöltve: %d fájl"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ÖSSZES lejátszási lista letöltése..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Hiba a verzió ellenőrzésekor: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Kijárat"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Sikertelen: %d fájl\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Kategória szűrése..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Frissítés kényszerítése (fejlesztő)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Adj pár másodpercet... betöltöm az adatokat"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "A HasBahCa kedvencek listája eltávolítva"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Adatok betöltése... Kérjük, várjon"
 
 msgid "Options"
-msgstr ""
+msgstr "Opciók"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Kérjük, most válasszon..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Távolítsa el"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Eltávolítja az összes HasBahCa kedvenc csokrot?"
 
 msgid "Select"
-msgstr ""
+msgstr "Válassza ki"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Válassza ki a frissítés típusát:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "A kedvenc %s listájának véletlenszerű lejátszása folyamatban"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Sikeresen letöltött: %d fájl\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Frissítés megszakítva!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Frissítse az M3U lejátszási listákat a GitHubról"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Frissítse a plugint új verzióra"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Várj kérlek..."

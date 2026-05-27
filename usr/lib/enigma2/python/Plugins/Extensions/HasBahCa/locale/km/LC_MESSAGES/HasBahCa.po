@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "ការចូលប្រើត្រូវបានបដិសេធ ឬកូដ PIN ខុស"
 
 msgid "Back"
-msgstr ""
+msgstr "ត្រឡប់មកវិញ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "អបអរសាទរ! អ្នកមានកំណែចុងក្រោយបង្អស់..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "តើអ្នកចង់ដំឡើងអាប់ដេត (%s) ឥឡូវនេះទេ?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Download បរាជ័យ!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "បានទាញយក៖ ឯកសារ %d"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "កំពុងទាញយកបញ្ជីចាក់ទាំងអស់..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "កំហុសក្នុងការត្រួតពិនិត្យកំណែ៖ %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ចេញ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "បរាជ័យ៖ ឯកសារ %d\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ត្រងប្រភេទនេះ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ការអាប់ដេតបង្ខំ (អ្នកអភិវឌ្ឍន៍)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "ឱ្យខ្ញុំពីរបីវិនាទី ... កំពុងផ្ទុកទិន្នន័យ"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "បញ្ជីចំណូលចិត្ត HasBahCa ត្រូវបានដកចេញ"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "កំពុងផ្ទុកទិន្នន័យ... សូមរង់ចាំ"
 
 msgid "Options"
-msgstr ""
+msgstr "ជម្រើស"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "សូមជ្រើសរើសឥឡូវនេះ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ដកចេញ"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "ដក​ភួង​សំណព្វ​របស់ HasBahCa ចេញ​ទាំងអស់​ឬ?"
 
 msgid "Select"
-msgstr ""
+msgstr "ជ្រើសរើស"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទអាប់ដេត៖"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "សាប់បញ្ជី %s ដែលចូលចិត្តកំពុងដំណើរការ"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "បានទាញយកដោយជោគជ័យ៖ ឯកសារ %d\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ការអាប់ដេតត្រូវបានលុបចោល!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "ធ្វើបច្ចុប្បន្នភាពបញ្ជីចាក់ M3U ពី GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ធ្វើបច្ចុប្បន្នភាពកម្មវិធីជំនួយទៅកំណែថ្មី។"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "សូមរង់ចាំ..."

@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Mynediad wedi'i wrthod neu PIN anghywir"
 
 msgid "Back"
-msgstr ""
+msgstr "Yn ol"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Llongyfarchiadau! Mae gennych y fersiwn diweddaraf yn barod..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ydych chi am osod diweddariad ( %s ) nawr?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Wedi methu llwytho i lawr!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Wedi llwytho i lawr: %d ffeil"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Wrthi'n lawrlwytho POB rhestr chwarae..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Gwall wrth wirio fersiwn: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Wedi methu: %d ffeil\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Hidlo'r categori hwn..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Diweddariad Llu (Datblygwr)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Rhowch ychydig eiliadau i mi ... llwytho'r data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Mae Rhestr Ffefrynnau HasBahCa wedi'i dileu"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Wrthi'n llwytho data... Arhoswch"
 
 msgid "Options"
-msgstr ""
+msgstr "Opsiynau"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Dewiswch nawr os gwelwch yn dda ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Cael gwared ar holl Hoff Bouquet HasBahCa ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Dewiswch"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Dewiswch y math o ddiweddariad:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Cymysgwch Hoff Rhestr %s ar Waith"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Wedi llwytho i lawr yn llwyddiannus: %d ffeil\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Diweddariad wedi'i Erthylu!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Diweddaru Rhestrau Chwarae M3U o GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Diweddaru'r Ategyn i fersiwn newydd"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Arhoswch os gwelwch yn dda..."

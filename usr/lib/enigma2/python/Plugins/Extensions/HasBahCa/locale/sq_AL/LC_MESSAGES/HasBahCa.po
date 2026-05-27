@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Qasja u refuzua ose PIN i gabuar"
 
 msgid "Back"
-msgstr ""
+msgstr "Mbrapa"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "urime! Ju tashmë keni versionin më të fundit..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Dëshiron të instalosh përditësimin ( %s ) tani?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Shkarkimi dështoi!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Shkarkuar: %d skedarë"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Po shkarkohen të gjitha listat e luajtjes..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Gabim gjatë kontrollit të versionit: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Dilni"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Dështoi: %d skedar\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtro këtë kategori..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Përditësimi i detyruar (Zhvilluesi)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Më jep disa sekonda ... duke ngarkuar të dhënat"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Lista e të preferuarave të HasBahCa është hequr"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Të dhënat po ngarkohen... Ju lutemi prisni"
 
 msgid "Options"
-msgstr ""
+msgstr "Opsionet"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Ju lutemi tani zgjidhni ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Hiq"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Të hiqet të gjitha Buqeta e Preferuar e HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Zgjidhni"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Zgjidhni llojin e përditësimit:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Përzier listën e %s të preferuar në vazhdim"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "U shkarkua me sukses: %d skedar\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Përditësimi u ndërpre!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Përditësoni listat e luajtjes M3U nga GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Përditëso shtojcën në versionin e ri"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Prit te lutem..."

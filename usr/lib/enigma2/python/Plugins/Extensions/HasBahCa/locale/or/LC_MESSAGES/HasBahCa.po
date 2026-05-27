@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "ପ୍ରବେଶ ପ୍ରତ୍ୟାଖ୍ୟାନ କିମ୍ବା ଭୁଲ PIN |"
 
 msgid "Back"
-msgstr ""
+msgstr "ପଛକୁ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "ଅଭିନନ୍ଦନ! ଆପଣଙ୍କ ପାଖରେ ସର୍ବଶେଷ ସଂସ୍କରଣ ଅଛି ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ଆପଣ ବର୍ତ୍ତମାନ ଅଦ୍ୟତନ (% s) ସଂସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ଡାଉନଲୋଡ୍ ବିଫଳ !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ଡାଉନଲୋଡ୍ ହୋଇଛି:% d ଫାଇଲ୍ |"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ସମସ୍ତ ପ୍ଲେଲିଷ୍ଟଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍ କରୁଛି ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "ସଂସ୍କରଣ ଯାଞ୍ଚରେ ତ୍ରୁଟି:% s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ପ୍ରସ୍ଥାନ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ବିଫଳ:% d ଫାଇଲଗୁଡିକ \ n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ଏହି ବର୍ଗ ଫିଲ୍ଟର୍ କରନ୍ତୁ ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ଫୋର୍ସ ଅପଡେଟ୍ (ଡେଭଲପର୍)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "ମୋତେ କିଛି ସେକେଣ୍ଡ ଦିଅ ... ଡାଟା ଲୋଡ୍ କର |"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ପସନ୍ଦ ତାଲିକା ଅପସାରିତ ହୋଇଛି |"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ଡାଟା ଲୋଡ୍ କରୁଛି ... ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ |"
 
 msgid "Options"
-msgstr ""
+msgstr "ବିକଳ୍ପଗୁଡ଼ିକ"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "ଦୟାକରି ବର୍ତ୍ତମାନ ଚୟନ କରନ୍ତୁ ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ଅପସାରଣ କରନ୍ତୁ |"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "ସମସ୍ତ HasBahCa ପ୍ରିୟ ପୁଷ୍ପ ହଟାନ୍ତୁ?"
 
 msgid "Select"
-msgstr ""
+msgstr "ଚୟନ କରନ୍ତୁ |"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "ଅଦ୍ୟତନ ପ୍ରକାର ଚୟନ କରନ୍ତୁ:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "ପ୍ରଗତିରେ ପ୍ରିୟ% s ତାଲିକାକୁ ବଦଳାନ୍ତୁ |"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "ସଫଳତାର ସହିତ ଡାଉନଲୋଡ୍ ହୋଇଛି:% d ଫାଇଲଗୁଡିକ \ n |"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ପରିତ୍ୟାଗ କରାଯାଇଥିବା ଅଦ୍ୟତନ!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub ରୁ M3U ପ୍ଲେଲିଷ୍ଟଗୁଡିକ ଅଦ୍ୟତନ କରନ୍ତୁ |"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ନୂତନ ସଂସ୍କରଣରେ ପ୍ଲଗଇନ୍ ଅଦ୍ୟତନ କରନ୍ତୁ |"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "ଦୟାକରି ଅପେକ୍ଷା କର ..."

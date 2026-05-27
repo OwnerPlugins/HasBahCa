@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "অ্যাক্সেস অস্বীকৃত বা ভুল পিন"
 
 msgid "Back"
-msgstr ""
+msgstr "ব্যাক"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "অভিনন্দন! আপনার কাছে ইতিমধ্যেই সর্বশেষ সংস্করণ আছে..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "আপনি কি এখন আপডেট (%s) ইনস্টল করতে চান?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ডাউনলোড ব্যর্থ!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ডাউনলোড করা হয়েছে: %d ফাইল"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "সমস্ত প্লেলিস্ট ডাউনলোড করা হচ্ছে..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "সংস্করণ পরীক্ষা করার সময় ত্রুটি: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "প্রস্থান করুন"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ব্যর্থ হয়েছে: %d ফাইল\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "এই বিভাগটি ফিল্টার করুন..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ফোর্স আপডেট (ডেভেলপার)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "আমাকে কয়েক সেকেন্ড দিন... ডেটা লোড হচ্ছে"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa পছন্দের তালিকা মুছে ফেলা হয়েছে"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ডেটা লোড হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন"
 
 msgid "Options"
-msgstr ""
+msgstr "অপশন"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "অনুগ্রহ করে এখন নির্বাচন করুন..."
 
 msgid "Remove"
-msgstr ""
+msgstr "সরান"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "সব HasBahCa প্রিয় তোড়া সরান?"
 
 msgid "Select"
-msgstr ""
+msgstr "নির্বাচন করুন"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "আপডেটের ধরন নির্বাচন করুন:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "প্রগতিতে প্রিয় %s তালিকা এলোমেলো করুন"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "সফলভাবে ডাউনলোড করা হয়েছে: %d ফাইল\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "আপডেট বাতিল করা হয়েছে!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub থেকে M3U প্লেলিস্ট আপডেট করুন"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "প্লাগইনকে নতুন সংস্করণে আপডেট করুন"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "অপেক্ষা করুন দয়া করে..."

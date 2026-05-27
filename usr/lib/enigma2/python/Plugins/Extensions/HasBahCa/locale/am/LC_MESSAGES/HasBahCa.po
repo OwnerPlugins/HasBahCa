@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "መዳረሻ ተከልክሏል ወይም የተሳሳተ ፒን"
 
 msgid "Back"
-msgstr ""
+msgstr "ተመለስ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "እንኳን ደስ ያለህ! ቀድሞውንም የቅርብ ጊዜ ስሪት አለህ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ማሻሻያ (%s) አሁን መጫን ይፈልጋሉ?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ማውረድ አልተሳካም !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "የወረዱ፡ %d ፋይሎች"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ሁሉንም አጫዋች ዝርዝሮች በማውረድ ላይ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "ስሪቱን በመፈተሽ ላይ ስህተት፡%s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "አልተሳካም፡ %d ፋይሎች\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ይህን ምድብ አጣራ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ዝማኔን አስገድድ (ገንቢ)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "ጥቂት ሰከንዶች ስጠኝ ... ውሂቡን እየጫንኩ ነው።"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ተወዳጆች ዝርዝር ተወግዷል"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ውሂብ በመጫን ላይ... እባክዎ ይጠብቁ"
 
 msgid "Options"
-msgstr ""
+msgstr "አማራጮች"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "እባክህ አሁን ምረጥ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "ሁሉም የHasBahCa ተወዳጅ ቡኬት ይወገድ?"
 
 msgid "Select"
-msgstr ""
+msgstr "ይምረጡ"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "የዝማኔ አይነት ይምረጡ፡-"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "በሂደት ላይ ያለ ተወዳጅ %s ዝርዝርን በውዝ"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "በተሳካ ሁኔታ ወርዷል፡ %d ፋይሎች\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ዝማኔ ተቋርጧል!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "የM3U አጫዋች ዝርዝሮችን ከ GitHub ያዘምኑ"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ተሰኪን ወደ አዲስ ስሪት ያዘምኑ"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "ቆይ እባክህ..."

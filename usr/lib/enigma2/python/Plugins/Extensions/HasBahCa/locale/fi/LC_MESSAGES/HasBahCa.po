@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Pääsy kielletty tai väärä PIN-koodi"
 
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Onnittelut! Sinulla on jo uusin versio..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Haluatko asentaa päivityksen ( %s ) nyt?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Lataus epäonnistui!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Ladattu: %d tiedostoa"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Ladataan KAIKKI soittolistat..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Virhe tarkistettaessa versiota: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Epäonnistui: %d tiedostoa\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Suodata tämä luokka..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Pakota päivitys (kehittäjä)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Odota muutama sekunti... lataan tietoja"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa-suosikkilista on poistettu"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Ladataan tietoja... Odota"
 
 msgid "Options"
-msgstr ""
+msgstr "Vaihtoehdot"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Ole hyvä ja valitse nyt..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Poista kaikki HasBahCa-suosikkikimppu?"
 
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Valitse päivitystyyppi:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Sekoita suosikki %s -luettelo käynnissä"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Ladattu onnistuneesti: %d tiedostoa\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Päivitys keskeytetty!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Päivitä M3U-soittolistat GitHubista"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Päivitä Plugin uuteen versioon"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Odota kiitos..."

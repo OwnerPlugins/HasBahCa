@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "యాక్సెస్ నిరాకరించబడింది లేదా తప్పు పిన్"
 
 msgid "Back"
-msgstr ""
+msgstr "వెనుకకు"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "అభినందనలు! మీరు ఇప్పటికే తాజా వెర్షన్‌ని కలిగి ఉన్నారు..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "మీరు ఇప్పుడే (%s) నవీకరణను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "డౌన్‌లోడ్ విఫలమైంది!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "డౌన్‌లోడ్ చేయబడింది: %d ఫైల్‌లు"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "అన్ని ప్లేజాబితాలను డౌన్‌లోడ్ చేస్తోంది..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "సంస్కరణను తనిఖీ చేయడంలో లోపం: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "నిష్క్రమించు"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "విఫలమైంది: %d ఫైల్‌లు\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ఈ వర్గాన్ని ఫిల్టర్ చేయండి..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ఫోర్స్ అప్‌డేట్ (డెవలపర్)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "నాకు కొన్ని సెకన్ల సమయం ఇవ్వండి ... డేటా లోడ్ అవుతోంది"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ఇష్టమైన వాటి జాబితా తీసివేయబడింది"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "డేటా లోడ్ అవుతోంది... దయచేసి వేచి ఉండండి"
 
 msgid "Options"
-msgstr ""
+msgstr "ఎంపికలు"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "దయచేసి ఇప్పుడు ఎంచుకోండి..."
 
 msgid "Remove"
-msgstr ""
+msgstr "తొలగించు"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa ఇష్టమైన బొకే మొత్తాన్ని తీసివేయాలా?"
 
 msgid "Select"
-msgstr ""
+msgstr "ఎంచుకోండి"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "నవీకరణ రకాన్ని ఎంచుకోండి:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "ఇష్టమైన %s జాబితాను షఫుల్ చేయడం ప్రోగ్రెస్‌లో ఉంది"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "విజయవంతంగా డౌన్‌లోడ్ చేయబడింది: %d ఫైల్‌లు\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "నవీకరణ రద్దు చేయబడింది!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub నుండి M3U ప్లేజాబితాలను నవీకరించండి"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ప్లగిన్‌ని కొత్త వెర్షన్‌కి అప్‌డేట్ చేయండి"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "దయచేసి వేచి ఉండండి..."

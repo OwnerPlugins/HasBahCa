@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Giriş inkär edildi ýa-da nädogry PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Yzyna"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Gutlaýarys! Sizde iň soňky wersiýa bar ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Indi täzelenme (% s) gurmak isleýärsiňizmi?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Downloadüklemek şowsuz !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Göçürildi:% d faýllar"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ALhli pleýist sanawlaryny göçürip almak ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Wersiýany barlamakda säwlik:% s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çyk"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Şowsuz:% d faýllar \ n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Bu kategoriýany süzüň ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Güýç täzelenmesi (Öndüriji)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Maňa birnäçe sekunt beriň ... maglumatlary ýükläň"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa halanýanlar sanawy aýryldy"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Maglumat ýüklenýär ... Garaşyň"
 
 msgid "Options"
-msgstr ""
+msgstr "Görnüş"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Indi saýlaň ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Aýyr"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa iň halanýan buketini aýyryň?"
 
 msgid "Select"
-msgstr ""
+msgstr "Saýlaň"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Täzelenme görnüşini saýlaň:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Iň halanýan% s sanawyny üýtgediň"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Üstünlik bilen göçürildi:% d faýllar \ n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Täzelenme ýatyryldy!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub-dan M3U sanawlaryny täzeläň"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Plugini täze wersiýa täzeläň"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Garaşyň haýyş ..."

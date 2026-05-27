@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Toegang geweigerd of verkeerde pincode"
 
 msgid "Back"
-msgstr ""
+msgstr "Rug"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Gefeliciteerd! Je beschikt al over de nieuwste versie..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Wilt u update ( %s ) nu installeren?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Downloaden mislukt!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Gedownload: %d bestanden"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ALLE afspeellijsten downloaden..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Fout bij het controleren van versie: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Uitgang"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Mislukt: %d bestanden\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filter deze categorie..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Update forceren (ontwikkelaar)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Geef me een paar seconden... om de gegevens te laden"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa-favorietenlijst is verwijderd"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Gegevens worden geladen... Een ogenblik geduld"
 
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Selecteer nu..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwijderen"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Alles verwijderen HasBahCa Favoriete Boeket?"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecteer"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Selecteer updatetype:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Favoriete %s lijst in willekeurige volgorde afspelen"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Succesvol gedownload: %d bestanden\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Update afgebroken!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Update M3U-afspeellijsten vanaf GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Update plug-in naar nieuwe versie"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Wacht alstublieft..."

@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Дастрасӣ рад карда шуд ё PIN нодуруст"
 
 msgid "Back"
-msgstr ""
+msgstr "Бозгашт"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Табрик! Шумо аллакай версияи охиринро доред..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Оё шумо мехоҳед навсозиро ( %s ) ҳозир насб кунед?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Зеркашӣ нашуд!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Боргиришуда: %d файл"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Зеркашӣ кардани ҲАМАИ рӯйхати навозиш..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Хатогӣ дар тафтиши версия: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Муваффақ шуд: %d файл\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Филтр кардани ин категория..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Навсозии маҷбурӣ (таҳиягар)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Ба ман чанд сония диҳед ... маълумотро бор мекунам"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Рӯйхати дӯстдоштаҳои HasBahCa хориҷ карда шуданд"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Маълумот бор карда мешавад... Лутфан интизор шавед"
 
 msgid "Options"
-msgstr ""
+msgstr "Имконот"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Лутфан ҳоло интихоб кунед ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Хориҷ кунед"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Ҳама гулдастаи дӯстдоштаи HasBahCa хориҷ карда шаванд?"
 
 msgid "Select"
-msgstr ""
+msgstr "Интихоб кунед"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Навъи навсозиро интихоб кунед:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Рӯйхати %s дӯстдоштаро омехта кунед"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Бомуваффақият зеркашӣ карда шуд: %d файл\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Навсозӣ қатъ карда шуд!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Рӯйхати навозишҳои M3U аз GitHub навсозӣ кунед"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Плагинро ба версияи нав навсозӣ кунед"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Интизор шавед, лутфан ..."

@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Accés denegat o PIN incorrecte"
 
 msgid "Back"
-msgstr ""
+msgstr "Enrere"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Felicitats! Ja tens la darrera versió..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Voleu instal·lar l'actualització ( %s ) ara?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "La descàrrega ha fallat!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Baixats: %d fitxers"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "S'estan baixant TOTES les llistes de reproducció..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Error en comprovar la versió: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Error: %d fitxers\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtra aquesta categoria..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Força l'actualització (desenvolupador)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Doneu-me uns segons... carregant les dades"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "La llista de favorits de HasBahCa s'ha eliminat"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "S'estan carregant les dades... Espereu"
 
 msgid "Options"
-msgstr ""
+msgstr "Opcions"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Si us plau, seleccioneu ara..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Eliminar tots els rams preferits de HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccioneu"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Seleccioneu el tipus d'actualització:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Barreja la llista de favorits %s en curs"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "S'han baixat correctament: %d fitxers\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Actualització avortada!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Actualitza les llistes de reproducció M3U des de GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Actualitza el connector a la nova versió"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Espereu si us plau..."

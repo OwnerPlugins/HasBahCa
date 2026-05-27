@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Rochtain diúltaithe nó UAP mícheart"
 
 msgid "Back"
-msgstr ""
+msgstr "Ar ais"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Comhghairdeachas! Tá an leagan is déanaí agat cheana féin..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ar mhaith leat nuashonrú ( % s ) a shuiteáil anois?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Theip ar Íoslódáil!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Íosluchtaithe: %d comhad"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Íoslódáil GACH seinmliostaí. ."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Earráid agus leagan á sheiceáil: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Theip ar: %d comhad\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Scag an chatagóir seo..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Nuashonrú Fórsaí (Forbróir)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Tabhair cúpla soicind dom ... na sonraí a luchtú"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Baineadh Liosta Ceanáin HasBahCa"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Sonraí á lódáil... Fan go fóill"
 
 msgid "Options"
-msgstr ""
+msgstr "Roghanna"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Roghnaigh anois le do thoil ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Bain"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Bain gach HasBahCa Bouquet Favorite ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Roghnaigh"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Roghnaigh cineál nuashonraithe:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Suaitheadh ​​Liosta %s is Fearr ar Siúl"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "D'éirigh le híoslódáil: %d comhad\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Tobscoireadh an Nuashonrú!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Nuashonraigh Seinmliostaí M3U ó GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Nuashonraigh an breiseán go leagan nua"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Fan le do thoil ..."

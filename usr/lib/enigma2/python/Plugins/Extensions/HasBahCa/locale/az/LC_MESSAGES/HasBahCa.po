@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Giriş rədd edildi və ya səhv PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Təbriklər! Sizdə artıq ən son versiya var..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Güncəlləməni ( %s ) indi quraşdırmaq istəyirsiniz?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Yükləmə uğursuz oldu!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Endirildi: %d fayl"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "BÜTÜN pleylistlər endirilir..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Versiya yoxlanarkən xəta: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıx"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Uğursuz: %d fayl\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Bu kateqoriyanı filtrləyin..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Məcburi Yeniləmə (Tərtibatçı)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Mənə bir neçə saniyə verin ... məlumatları yükləyirəm"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa Sevimlilər Siyahısı silindi"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Data yüklənir... Lütfən gözləyin"
 
 msgid "Options"
-msgstr ""
+msgstr "Seçimlər"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Zəhmət olmasa indi seçin..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Sil"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Bütün HasBahCa Sevimli Buketi silin?"
 
 msgid "Select"
-msgstr ""
+msgstr "seçin"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Yeniləmə növünü seçin:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Sevimli %s Siyahısını qarışdırın"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Uğurla endirildi: %d fayl\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Yeniləmə dayandırıldı!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub-dan M3U çalğı siyahılarını yeniləyin"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Plugini yeni versiyaya yeniləyin"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Gözləyin zəhmət olmasa..."

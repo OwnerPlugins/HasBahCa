@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "ಪ್ರವೇಶವನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ ಅಥವಾ ತಪ್ಪಾದ ಪಿನ್"
 
 msgid "Back"
-msgstr ""
+msgstr "ಹಿಂದೆ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "ಅಭಿನಂದನೆಗಳು! ನೀವು ಈಗಾಗಲೇ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿರುವಿರಿ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ನೀವು ಈಗ ನವೀಕರಣವನ್ನು (%s ) ಸ್ಥಾಪಿಸಲು ಬಯಸುವಿರಾ?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ಎಲ್ಲಾ ಪ್ಲೇಪಟ್ಟಿಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "ಆವೃತ್ತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಲ್ಲಿ ದೋಷ: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ನಿರ್ಗಮಿಸಿ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ವಿಫಲವಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ಈ ವರ್ಗವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ಫೋರ್ಸ್ ಅಪ್‌ಡೇಟ್ (ಡೆವಲಪರ್)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "ನನಗೆ ಕೆಲವು ಸೆಕೆಂಡುಗಳನ್ನು ನೀಡಿ ... ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ಮೆಚ್ಚಿನವುಗಳ ಪಟ್ಟಿಯನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ... ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ"
 
 msgid "Options"
-msgstr ""
+msgstr "ಆಯ್ಕೆಗಳು"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "ದಯವಿಟ್ಟು ಈಗ ಆಯ್ಕೆಮಾಡಿ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ತೆಗೆದುಹಾಕಿ"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "ಎಲ್ಲಾ HasBahCa ಮೆಚ್ಚಿನ ಪುಷ್ಪಗುಚ್ಛವನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?"
 
 msgid "Select"
-msgstr ""
+msgstr "ಆಯ್ಕೆ ಮಾಡಿ"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "ನವೀಕರಣ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "ಮೆಚ್ಚಿನ %s ಪಟ್ಟಿಯನ್ನು ಷಫಲ್ ಮಾಡಿ ಪ್ರಗತಿಯಲ್ಲಿದೆ"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "ಯಶಸ್ವಿಯಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ನವೀಕರಣವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub ನಿಂದ M3U ಪ್ಲೇಪಟ್ಟಿಗಳನ್ನು ನವೀಕರಿಸಿ"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ಪ್ಲಗಿನ್ ಅನ್ನು ಹೊಸ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಿ"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."

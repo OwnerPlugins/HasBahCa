@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Přístup odepřen nebo nesprávný PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Zadní"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "gratuluji! Už máte nejnovější verzi..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Chcete nyní nainstalovat aktualizaci ( %s )?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Stahování se nezdařilo!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Staženo: %d souborů"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Stahování VŠECH seznamů skladeb..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Chyba při kontrole verze: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Výstup"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Selhalo: %d souborů\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrovat tuto kategorii..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Vynutit aktualizaci (vývojář)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Dejte mi pár sekund... načítání dat"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Seznam oblíbených HasBahCa byl odstraněn"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Načítání dat... Čekejte prosím"
 
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Nyní prosím vyberte..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Odebrat všechny oblíbené kytice HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Vyberte typ aktualizace:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Probíhá náhodné přehrávání seznamu %s"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Úspěšně staženo: %d souborů\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aktualizace zrušena!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Aktualizujte seznamy skladeb M3U z GitHubu"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Aktualizujte plugin na novou verzi"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Počkejte prosím..."

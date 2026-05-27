@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Хандалтыг хориглосон эсвэл буруу ПИН"
 
 msgid "Back"
-msgstr ""
+msgstr "Буцах"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Баяр хүргэе! Танд хамгийн сүүлийн хувилбар байгаа..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Та одоо шинэчлэлтийг ( %s ) суулгахыг хүсэж байна уу?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Татаж чадсангүй!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Татаж авсан: %d файл"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "БҮХ тоглуулах жагсаалтыг татаж байна..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Хувилбарыг шалгахад алдаа гарлаа: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Гарах"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Амжилтгүй: %d файл\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Энэ ангиллыг шүүх..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Хүчээр шинэчлэх (Хөгжүүлэгч)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Надад хэдэн секунд өгөөч ... өгөгдлийг ачаалж байна"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa дуртай жагсаалт хасагдсан"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Өгөгдлийг ачаалж байна... Түр хүлээнэ үү"
 
 msgid "Options"
-msgstr ""
+msgstr "Сонголтууд"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Одоо сонгоно уу ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Устгах"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Бүх HasBahCa дуртай баглааг устгах уу?"
 
 msgid "Select"
-msgstr ""
+msgstr "Сонго"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Шинэчлэлийн төрлийг сонгоно уу:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Дуртай %s жагсаалтыг холих хийгдэж байна"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Амжилттай татагдсан: %d файл\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Шинэчлэлтийг зогсоосон!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub-аас M3U тоглуулах жагсаалтыг шинэчил"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Plugin-ийг шинэ хувилбар руу шинэчилнэ үү"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Хүлээгээрэй..."

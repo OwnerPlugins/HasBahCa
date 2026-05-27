@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Pristup odbijen ili pogrešan PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Nazad"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Svaka čast! Već imate najnoviju verziju..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Želite li sada instalirati ažuriranje ( %s )?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Preuzimanje nije uspjelo!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Preuzeto: %d datoteke"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Preuzimanje SVIH popisa za reprodukciju..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Pogreška provjere verzije: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Izlaz"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Neuspješno: %d datoteke\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtriraj ovu kategoriju..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Prisilno ažuriranje (programer)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Daj mi nekoliko sekundi... učitavam podatke"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa popis favorita je uklonjen"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Učitavanje podataka... Pričekajte"
 
 msgid "Options"
-msgstr ""
+msgstr "Mogućnosti"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Odaberite sada..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Ukloniti"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Ukloniti sve HasBahCa omiljeni buket?"
 
 msgid "Select"
-msgstr ""
+msgstr "Odaberite"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Odaberite vrstu ažuriranja:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Popis favorita %s u tijeku"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Uspješno preuzeto: %d datoteke\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ažuriranje prekinuto!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Ažurirajte M3U popise za reprodukciju s GitHuba"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Ažurirajte dodatak na novu verziju"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "čekaj molim te..."

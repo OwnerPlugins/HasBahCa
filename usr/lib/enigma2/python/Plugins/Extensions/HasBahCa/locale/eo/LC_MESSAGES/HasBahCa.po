@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Aliro malakceptita aŭ malĝusta PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Reen"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Gratulon! Vi jam havas la lastan version..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ĉu vi volas instali ĝisdatigon ( %s ) nun?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Elŝuto malsukcesis!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Elŝutite: %d dosieroj"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Elŝutante ĈIUJN ludlistojn..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Eraro kontrolante version: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Eliro"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Malsukcesis: %d dosieroj\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtri ĉi tiun kategorion..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Forto Ĝisdatigo (Ellaboranto)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Donu al mi kelkajn sekundojn ... ŝarĝante la datumojn"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Listo de ŝatatoj de HasBahCa estis forigita"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Ŝarĝante datumojn... Bonvolu atendi"
 
 msgid "Options"
-msgstr ""
+msgstr "Opcioj"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Bonvolu nun elekti..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Forigi ĉiujn Ŝatatajn Bukedojn de HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Elektu"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Elektu tipon de ĝisdatigo:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Miŝu la Liston de Favoritaj %s en Progreso"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Sukcese elŝutite: %d dosieroj\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ĝisdatigo interrompita!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Ĝisdatigu M3U-Ludlistojn de GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Ĝisdatigu kromprogramon al nova versio"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Atendu bonvolu..."

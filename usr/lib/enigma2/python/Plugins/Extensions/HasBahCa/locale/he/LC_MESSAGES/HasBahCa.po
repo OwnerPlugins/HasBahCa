@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "הגישה נדחתה או PIN שגוי"
 
 msgid "Back"
-msgstr ""
+msgstr "בְּחֲזָרָה"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "מזל טוב! כבר יש לך את הגרסה העדכנית ביותר..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "האם ברצונך להתקין עדכון ( %s ) כעת?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ההורדה נכשלה!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "הורדת: %d קבצים"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "מוריד את כל הפלייליסטים..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "שגיאה בבדיקת גרסה: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "נכשל: %d קבצים\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "סנן את הקטגוריה הזו..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "כפה עדכון (מפתח)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "תן לי כמה שניות... טוען את הנתונים"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "רשימת המועדפים של HasBahCa הוסרה"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "טוען נתונים... אנא המתן"
 
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "אנא בחר כעת..."
 
 msgid "Remove"
-msgstr ""
+msgstr "לְהַסִיר"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "להסיר את כל הזרים המועדפים של HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "לִבחוֹר"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "בחר סוג עדכון:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "ערבב את רשימת %s המועדפים בתהליך"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "הורד בהצלחה: %d קבצים\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "העדכון בוטל!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "עדכן רשימות השמעה של M3U מ-GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "עדכן את הפלאגין לגרסה חדשה"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "חכה בבקשה..."

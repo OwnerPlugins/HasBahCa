@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Gihîştin hate red kirin an PIN xelet"
 
 msgid "Back"
-msgstr ""
+msgstr "Paş"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Pîroz be! Berê te guhertoya herî dawî heye..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Tu dixwazî ​​nûvekirina ( %s ) niha saz bikî?"
 
 msgid "Download Failed!!!"
 msgstr ""
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Daxistin: %d pel"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Daxistina HEMÛ lîsteyên lîstikê..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Di guhertoya kontrolê de çewtî: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Serneket: %d pel\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Vê kategoriyê fîlter bike..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Nûvekirina Bi zorê (Pêşvebir)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Çend saniyan bide min ... barkirina daneyan"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Lîsteya Vebijarkên HasBahCa hate rakirin"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Daneyên barkirin... Ji kerema xwe bisekinin"
 
 msgid "Options"
-msgstr ""
+msgstr "Vebijêrk"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Ji kerema xwe niha hilbijêrin ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Dûrxistin"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Hemû HasBahCa Bouquet Favorite Rake?"
 
 msgid "Select"
-msgstr ""
+msgstr "Neqandin"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Cureya nûvekirinê hilbijêrin:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Lîsteya %s ya bijare ya di pêşkeftinê de ye bihejîne"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Bi serketî hat daxistin: %d pel\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Nûvekirin hate betal kirin!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Lîsteyên lîstikê yên M3U ji GitHub-ê nûve bikin"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Pêveka nûvekirina guhertoya nû"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Ji kerema xwe bisekinin ..."

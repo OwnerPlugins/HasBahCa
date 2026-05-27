@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "アクセスが拒否されたか、PIN が間違っています"
 
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "おめでとうございます！すでに最新バージョンをお持ちです..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "今すぐアップデート ( %s ) をインストールしますか?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ダウンロードに失敗しました!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ダウンロード済み: %d ファイル"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "すべてのプレイリストをダウンロードしています..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "バージョンチェック中にエラーが発生しました: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "失敗: %d ファイル\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "このカテゴリをフィルタリング..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "強制アップデート (開発者)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "数秒お待ちください...データをロードしています"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa お気に入りリストが削除されました"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "データをロードしています...お待ちください"
 
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "今すぐ選択してください..."
 
 msgid "Remove"
-msgstr ""
+msgstr "取り除く"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa のお気に入りの花束をすべて削除しますか?"
 
 msgid "Select"
-msgstr ""
+msgstr "選択"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "更新タイプを選択してください:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "お気に入り %s リストのシャッフルが進行中です"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "正常にダウンロードされました: %d ファイル\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "アップデートが中止されました!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub から M3U プレイリストを更新する"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "プラグインを新しいバージョンに更新する"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "お待ちください..."

@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Acces refuzat sau PIN greșit"
 
 msgid "Back"
-msgstr ""
+msgstr "Spate"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Felicitari! Ai deja cea mai recentă versiune..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Doriți să instalați actualizarea ( %s ) acum?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Descărcarea eșuată!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Descărcate: %d fișiere"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Se descarcă TOATE listele de redare..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Eroare la verificarea versiunii: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Eșuat: %d fișiere\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrați această categorie..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Actualizare forțată (dezvoltator)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Dă-mi câteva secunde... încarc datele"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Lista de favorite HasBahCa a fost eliminată"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Se încarcă datele... Vă rugăm să așteptați"
 
 msgid "Options"
-msgstr ""
+msgstr "Opțiuni"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Vă rugăm să selectați acum..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Eliminați toate Buchetele preferate HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecta"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Selectați tipul de actualizare:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Amestecă lista %s favorite în curs"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Descărcat cu succes: %d fișiere\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Actualizare a fost anulată!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Actualizați listele de redare M3U din GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Actualizați pluginul la noua versiune"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Așteaptă te rog..."

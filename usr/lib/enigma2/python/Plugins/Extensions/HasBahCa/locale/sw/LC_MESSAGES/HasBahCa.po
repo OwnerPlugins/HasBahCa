@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Ufikiaji umekataliwa au PIN isiyo sahihi"
 
 msgid "Back"
-msgstr ""
+msgstr "Nyuma"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Hongera! Tayari una toleo jipya zaidi..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Je, ungependa kusakinisha sasisho ( %s ) sasa?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Imeshindwa Kupakua!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Imepakuliwa: faili %d"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Inapakua orodha ZOTE za kucheza..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Hitilafu katika kuangalia toleo: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Imeshindwa: faili %d\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Chuja aina hii..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Lazimisha Usasishaji (Msanidi Programu)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Nipe sekunde chache ... inapakia data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Orodha ya Vipendwa vya HasBahCa imeondolewa"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Inapakia data... Tafadhali subiri"
 
 msgid "Options"
-msgstr ""
+msgstr "Chaguo"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Tafadhali chagua sasa..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Ondoa"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Ungependa kuondoa Mauti yote ya HasBahCa Unayopendelea?"
 
 msgid "Select"
-msgstr ""
+msgstr "Chagua"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Chagua aina ya sasisho:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Changanya Orodha ya %s Unayoipenda Inaendelea"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Imepakuliwa kwa ufanisi: faili %d\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Usasishaji Umeghairiwa!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Sasisha Orodha za kucheza za M3U kutoka GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Sasisha Programu-jalizi hadi toleo jipya"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Subiri tafadhali..."

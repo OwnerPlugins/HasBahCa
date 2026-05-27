@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "การเข้าถึงถูกปฏิเสธหรือ PIN ผิด"
 
 msgid "Back"
-msgstr ""
+msgstr "กลับ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "ยินดีด้วย! คุณมีเวอร์ชันล่าสุดแล้ว..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "คุณต้องการติดตั้งการอัปเดต ( %s ) ตอนนี้หรือไม่?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ดาวน์โหลดไม่สำเร็จ!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ดาวน์โหลดแล้ว: %d ไฟล์"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "กำลังดาวน์โหลดเพลย์ลิสต์ทั้งหมด..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบเวอร์ชัน: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ออก"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ล้มเหลว: %d ไฟล์\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "กรองหมวดหมู่นี้..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "กองทัพอัปเดต (นักพัฒนา)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "ให้เวลาฉันสักครู่ ... กำลังโหลดข้อมูล"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "รายการโปรดของ HasBahCa ถูกลบออกแล้ว"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "กำลังโหลดข้อมูล... กรุณารอสักครู่"
 
 msgid "Options"
-msgstr ""
+msgstr "ตัวเลือก"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "กรุณาเลือกตอนนี้..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "ลบช่อดอกไม้โปรดของ HasBahCa ทั้งหมด ?"
 
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "เลือกประเภทการอัพเดต:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "สุ่มรายการ %s รายการโปรดอยู่ระหว่างดำเนินการ"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "ดาวน์โหลดสำเร็จแล้ว: %d ไฟล์\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "การอัปเดตถูกยกเลิก!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "อัปเดตเพลย์ลิสต์ M3U จาก GitHub"
 
 msgid "Update Plugin to new version"
 msgstr ""
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "กรุณารอสักครู่..."

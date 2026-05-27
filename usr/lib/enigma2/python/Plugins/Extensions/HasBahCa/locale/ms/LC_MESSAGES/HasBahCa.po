@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Akses ditolak atau PIN salah"
 
 msgid "Back"
-msgstr ""
+msgstr "belakang"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "tahniah! Anda sudah mempunyai versi terkini..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Adakah anda mahu memasang kemas kini ( %s ) sekarang?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Muat turun Gagal!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Dimuat turun: %d fail"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Memuat turun SEMUA senarai main..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Ralat menyemak versi: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Gagal: %d fail\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Tapis kategori ini..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Kemas Kini Paksa (Pembangun)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Beri saya beberapa saat ... memuatkan data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Senarai Kegemaran HasBahCa telah dialih keluar"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Memuatkan data... Sila tunggu"
 
 msgid "Options"
-msgstr ""
+msgstr "Pilihan"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Sila pilih sekarang..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Alih keluar"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Keluarkan semua Bouquet Kegemaran HasBahCa ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Pilih jenis kemas kini:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Kocok Senarai %s Kegemaran Sedang Dijalankan"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Berjaya dimuat turun: %d fail\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Kemas Kini Dibatalkan!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Kemas kini Senarai Main M3U daripada GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Kemas kini Plugin kepada versi baharu"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Tolong tunggu..."

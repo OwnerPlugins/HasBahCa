@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Рөхсәт кире кагылган яки дөрес булмаган PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Кире"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Котлыйбыз! Сезнең соңгы версиягез бар ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Сез хәзер яңарту (% s) урнаштырырга телисезме?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Йөкләү уңышсыз !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Йөкләнде:% d файллар"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "БАРЫ плейлистларны йөкләү ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Версияне тикшерүдә хата:% s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Чык"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Уңайсыз:% d файллар \ n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Бу категорияне фильтрлагыз ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Көч яңарту (ясаучы)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Миңа берничә секунд бирегез ... мәгълүматны йөкләү"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa фаворитлар исемлеге бетерелде"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Мәгълүматны йөкләү ... Зинһар, көтегез"
 
 msgid "Options"
-msgstr ""
+msgstr "Вариантлар"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Зинһар, хәзер сайлагыз ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Чыгар"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Барлык HasBahCa яраткан букетын бетерегез?"
 
 msgid "Select"
-msgstr ""
+msgstr "Сайлагыз"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Яңарту төрен сайлагыз:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Яраткан% s исемлеген алыштырыгыз"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Уңышлы йөкләнде:% d файллар \ n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Яңартылган!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub'тан M3U плейлистларын яңарту"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Плагинны яңа версиягә яңарту"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Тукта зинһар ..."

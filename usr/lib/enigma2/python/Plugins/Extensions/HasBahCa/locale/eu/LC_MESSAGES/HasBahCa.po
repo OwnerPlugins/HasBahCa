@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Sarbidea ukatu da edo PIN okerra"
 
 msgid "Back"
-msgstr ""
+msgstr "Itzuli"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Zorionak! Dagoeneko duzu azken bertsioa..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Eguneraketa ( %s ) instalatu nahi duzu orain?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Deskargatu huts egin du!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Deskargatuta: %d fitxategi"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Erreprodukzio-zerrenda GUZTIAK deskargatzen..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Errorea bertsioa egiaztatzean: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Irten"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Huts egin du: %d fitxategi\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Iragazi kategoria hau..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Behartu eguneratzea (garatzailea)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Eman segundo batzuk... datuak kargatzen"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa gogokoen zerrenda kendu da"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Datuak kargatzen... Itxaron mesedez"
 
 msgid "Options"
-msgstr ""
+msgstr "Aukerak"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Mesedez, hautatu orain..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Kendu"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa-ren sorta gogokoena kendu?"
 
 msgid "Select"
-msgstr ""
+msgstr "Hautatu"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Hautatu eguneratze mota:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Nahastu %s gogokoen zerrenda Abian"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Ondo deskargatu dira: %d fitxategi\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Eguneratzea bertan behera utzi da!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Eguneratu M3U erreprodukzio zerrendak GitHub-etik"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Eguneratu plugina bertsio berrira"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Itxaron mesedez..."

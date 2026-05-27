@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "אַקסעס געלייקנט אָדער פאַלש PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "צוריק"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "מאַזל - טאָוו! איר האָט שוין די לעצטע ווערסיע ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "צי איר ווילן צו ינסטאַלירן דערהייַנטיקן (%s) איצט?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "אראפקאפיע ניט אַנדערש!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "דאַונלאָודיד: %d טעקעס"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "דאַונלאָודינג אַלע פּלייַליסץ ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "טעות טשעק ווערסיע: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "דורכפאַל: %d טעקעס\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "פילטער די קאטעגאריע..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "פאָרס אַפּדייט (דעוועלאָפּער)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "געבן מיר אַ ביסל סעקונדעס ... לאָודינג די דאַטן"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa פאַוואָריטעס רשימה איז אַוועקגענומען"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "לאָודינג דאַטן... ביטע וואַרטן"
 
 msgid "Options"
-msgstr ""
+msgstr "אָפּציעס"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "ביטע איצט אויסקלייַבן ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "אַראָפּנעמען"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "אַראָפּנעמען אַלע HasBahCa באַליבסטע בוקיי?"
 
 msgid "Select"
-msgstr ""
+msgstr "אויסקלייַבן"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "אויסקלייַבן דערהייַנטיקן טיפּ:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "שאַרן באַליבסטע %s רשימה אין פּראָגרעס"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "געראָטן דאַונלאָודיד: %d טעקעס\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "דערהייַנטיקן אַבאָרטיד!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "דערהייַנטיקן M3U פּלייַליסץ פֿון GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "דערהייַנטיקן פּלוגין צו נייַע ווערסיע"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "ווארט ביטע..."

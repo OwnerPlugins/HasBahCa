@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Akses ditolak atau PIN salah"
 
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Selamat! Anda sudah memiliki versi terbaru..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Apakah Anda ingin menginstal pembaruan ( %s ) sekarang?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Pengunduhan Gagal!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Diunduh: %d file"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Mengunduh SEMUA daftar putar..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Kesalahan saat memeriksa versi: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "KELUAR"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Gagal: %d file\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filter kategori ini..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Pembaruan Paksa (Pengembang)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Beri saya waktu beberapa detik... memuat data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Daftar Favorit HasBahCa telah dihapus"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Memuat data... Harap tunggu"
 
 msgid "Options"
-msgstr ""
+msgstr "Pilihan"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Silakan sekarang pilih ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Hapus semua Buket Favorit HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Memilih"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Pilih jenis pembaruan:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Acak Daftar %s Favorit Sedang Berlangsung"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Berhasil mengunduh: %d file\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Pembaruan Dibatalkan!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Perbarui Daftar Putar M3U dari GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Perbarui Plugin ke versi baru"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Tolong tunggu..."

@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "အသုံးပြုခွင့်ကို ငြင်းဆိုထားသည် သို့မဟုတ် မှားယွင်းသော PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "ကျော"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "ဂုဏ်ပြုပါသည်။ သင့်တွင် နောက်ဆုံးထွက်ဗားရှင်းရှိနေပြီဖြစ်သည်။"
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "အပ်ဒိတ် (%s) ကို ယခု ထည့်သွင်းလိုပါသလား။"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ဒေါင်းလုဒ် မအောင်မြင်ပါ!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ဒေါင်းလုဒ်လုပ်ထားသည်- %d ဖိုင်"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "အစီအစဉ်အားလုံးကို ဒေါင်းလုဒ်လုပ်နေသည်..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "ဗားရှင်းစစ်ဆေးရာတွင် အမှားအယွင်းရှိနေသည်- %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "မအောင်မြင်ပါ- %d ဖိုင်\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ဤအမျိုးအစားကို စစ်ထုတ်ပါ..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "မဖြစ်မနေအပ်ဒိတ် (ဆော့ဖ်ဝဲရေးသားသူ)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "စက္ကန့်အနည်းငယ်ကြာပေးပါ... ဒေတာကို တင်ပေးပါ။"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa အကြိုက်ဆုံးစာရင်းကို ဖယ်ရှားလိုက်ပါပြီ။"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ဒေတာကို ဖွင့်နေသည်... ကျေးဇူးပြု၍ ခဏစောင့်ပါ။"
 
 msgid "Options"
-msgstr ""
+msgstr "ရွေးချယ်စရာများ"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "ကျေးဇူးပြု၍ ယခုရွေးချယ်ပါ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ဖယ်ရှားပါ။"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa Favourite Bouquet အားလုံးကို ဖယ်ရှားမလား။"
 
 msgid "Select"
-msgstr ""
+msgstr "ရွေးချယ်ပါ။"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "အပ်ဒိတ်အမျိုးအစားကို ရွေးပါ-"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "လုပ်ဆောင်နေသည့် အကြိုက်ဆုံး %s စာရင်းကို မွှေနှောက်ပါ။"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ထားသည်- %d ဖိုင်\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "အပ်ဒိတ်ကို ဖျက်သိမ်းလိုက်ပါပြီ။"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub မှ M3U အစီအစဉ်များကို အပ်ဒိတ်လုပ်ပါ။"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ဗားရှင်းအသစ်သို့ ပလပ်အင်ကို အပ်ဒိတ်လုပ်ပါ။"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "ကျေးဇူးပြုပြီး စောင့်ပါ..."

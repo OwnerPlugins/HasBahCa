@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "دسترسی ممنوع یا پین اشتباه است"
 
 msgid "Back"
-msgstr ""
+msgstr "برگشت"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "تبریک میگم شما در حال حاضر آخرین نسخه را دارید ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "آیا می خواهید به روز رسانی ( %s ) را اکنون نصب کنید؟"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "دانلود انجام نشد!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "دانلود شده: %d فایل"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "در حال دانلود همه لیست های پخش..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "خطا در بررسی نسخه: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "خارج شوید"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ناموفق: %d فایل\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "فیلتر کردن این دسته..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "به روز رسانی اجباری (توسعه دهنده)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "چند ثانیه به من فرصت دهید ... در حال بارگذاری اطلاعات"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "لیست موارد دلخواه HasBahCa حذف شده است"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "در حال بارگیری داده ها... لطفاً صبر کنید"
 
 msgid "Options"
-msgstr ""
+msgstr "گزینه ها"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "لطفا اکنون انتخاب کنید ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "تمام دسته گل های مورد علاقه HasBahCa حذف شود؟"
 
 msgid "Select"
-msgstr ""
+msgstr "انتخاب کنید"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "انتخاب نوع به روز رسانی:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "به هم زدن لیست %s مورد علاقه در حال انجام است"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "دانلود با موفقیت: %d فایل\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "به روز رسانی لغو شد!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "لیست های پخش M3U را از GitHub به روز کنید"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "افزونه را به نسخه جدید به روز کنید"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "صبر کن لطفا..."

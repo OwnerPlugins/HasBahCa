@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Truy cập bị từ chối hoặc sai mã PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Xin chúc mừng! Bạn đã có phiên bản mới nhất..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Bạn có muốn cài đặt bản cập nhật ( %s ) ngay bây giờ không?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Tải xuống không thành công!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Đã tải xuống: %d tệp"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Đang tải xuống TẤT CẢ danh sách phát..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Lỗi kiểm tra phiên bản: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Không thành công: %d tệp\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Lọc danh mục này..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Buộc cập nhật (Nhà phát triển)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Hãy cho tôi vài giây ... đang tải dữ liệu"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Danh sách yêu thích HasBahCa đã bị xóa"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Đang tải dữ liệu... Vui lòng đợi"
 
 msgid "Options"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Bây giờ hãy chọn..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Xóa tất cả Bó hoa yêu thích của HasBahCa ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Chọn loại cập nhật:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Đang xáo trộn danh sách %s yêu thích"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Đã tải xuống thành công: %d files\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Cập nhật bị hủy bỏ!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Cập nhật danh sách phát M3U từ GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Cập nhật Plugin lên phiên bản mới"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Xin vui lòng chờ đợi..."

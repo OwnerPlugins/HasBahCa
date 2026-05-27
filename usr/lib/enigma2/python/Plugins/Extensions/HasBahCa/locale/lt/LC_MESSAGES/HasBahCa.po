@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Prieiga uždrausta arba neteisingas PIN kodas"
 
 msgid "Back"
-msgstr ""
+msgstr "Atgal"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Sveikiname! Jau turite naujausią versiją..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ar norite įdiegti naujinimą ( %s ) dabar?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Atsisiųsti nepavyko!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Atsisiųsta: %d failų"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Atsisiunčiami VISI grojaraščiai..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Klaida tikrinant versiją: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Išeiti"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Nepavyko: %d failų\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtruoti šią kategoriją..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Priverstinis atnaujinimas (kūrėjas)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Duok man kelias sekundes... įkelsiu duomenis"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa mėgstamiausių sąrašas buvo pašalintas"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Įkeliami duomenys... Palaukite"
 
 msgid "Options"
-msgstr ""
+msgstr "Parinktys"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Dabar pasirinkite..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Pašalinti visą HasBahCa mėgstamiausią puokštę?"
 
 msgid "Select"
-msgstr ""
+msgstr "Pasirinkite"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Pasirinkite atnaujinimo tipą:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Vykdomas mėgstamų %s sąrašas maišyti"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Sėkmingai atsisiųsta: %d failų\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atnaujinimas nutrauktas!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Atnaujinkite M3U grojaraščius iš „GitHub“."
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Atnaujinkite papildinį į naują versiją"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Palauk prašau..."

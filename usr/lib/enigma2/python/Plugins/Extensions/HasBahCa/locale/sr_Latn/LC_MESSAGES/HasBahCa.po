@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Приступ одбијен или погрешан ПИН"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Цонгратс! Већ имате најновију верзију..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Да ли желите да инсталирате ажурирање ( %с ) сада?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Преузимање није успело!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Преузето: %д датотека"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Преузимање СВЕ плејлисте..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Грешка при провери верзије: %с"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изађи"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Неуспешно: %д фајлова\н"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Филтрирај ову категорију..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Присилно ажурирање (програмер)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Дај ми пар секунди ... учитавам податке"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "ХасБахЦа листа фаворита је уклоњена"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Учитавање података... Молимо сачекајте"
 
 msgid "Options"
-msgstr ""
+msgstr "Опције"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Сада изаберите..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Уклони"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Уклони све ХасБахЦа омиљени букет ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Изаберите"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Изаберите тип ажурирања:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Промешај листу омиљених %с у току"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Успешно преузето: %д датотека\н"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ажурирање је прекинуто!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Ажурирајте М3У листе песама са ГитХуб-а"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Ажурирајте додатак на нову верзију"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Сачекај молим те..."

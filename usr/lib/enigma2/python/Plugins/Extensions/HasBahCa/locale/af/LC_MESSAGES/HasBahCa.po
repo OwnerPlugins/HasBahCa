@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Toegang geweier of verkeerde PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Geluk! Jy het reeds die nuutste weergawe..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Wil jy nou opdatering ( %s ) installeer?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Aflaai het misluk!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Afgelaai: %d lêers"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Laai tans ALLE snitlyste af..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Kon nie weergawe nagaan nie: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Verlaat"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Misluk: %d lêers\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtreer hierdie kategorie..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Forseer opdatering (ontwikkelaar)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Gee my 'n paar sekondes ... laai die data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa-gunstelingelys is verwyder"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Laai tans data... Wag asseblief"
 
 msgid "Options"
-msgstr ""
+msgstr "Opsies"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Kies nou asseblief..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Verwyder alle HasBahCa-gunstelingboeket?"
 
 msgid "Select"
-msgstr ""
+msgstr "Kies"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Kies opdateringtipe:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Skommel gunsteling %s lys aan die gang"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Suksesvol afgelaai: %d lêers\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Opdatering gestop!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Dateer M3U-snitlyste op vanaf GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Dateer inprop op na nuwe weergawe"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Wag asseblief..."

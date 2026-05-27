@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Відмовлено в доступі або неправильний PIN-код"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Вітаю! У вас вже є остання версія..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Бажаєте встановити оновлення ( %s ) зараз?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Помилка завантаження!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Завантажено: %d файлів"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Завантаження ВСІХ списків відтворення..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Помилка перевірки версії: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Помилка: %d файлів\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Відфільтрувати цю категорію..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Примусове оновлення (розробник)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Дайте мені кілька секунд... завантаження даних"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Список уподобань HasBahCa видалено"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Завантаження даних... Зачекайте"
 
 msgid "Options"
-msgstr ""
+msgstr "Опції"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Виберіть..."
 
 msgid "Remove"
-msgstr ""
+msgstr "видалити"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Видалити всі улюблені букети HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Виберіть"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Виберіть тип оновлення:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Виконується перемішування списку улюблених %s"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Успішно завантажено: %d файлів\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Оновлення скасовано!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Оновіть списки відтворення M3U з GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Оновіть плагін до нової версії"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Зачекайте, будь ласка..."

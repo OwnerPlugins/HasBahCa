@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "ප්‍රවේශය ප්‍රතික්ෂේප කිරීම හෝ වැරදි PIN අංකය"
 
 msgid "Back"
-msgstr ""
+msgstr "ආපසු"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "සුභ පැතුම්! ඔබට දැනටමත් නවතම අනුවාදය ඇත..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ඔබට දැන් යාවත්කාලීන (%s ) ස්ථාපනය කිරීමට අවශ්‍යද?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "බාගැනීම අසාර්ථකයි!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "බාගත්: ගොනු %d"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "සියලුම ධාවන ලැයිස්තු බාගනිමින්..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "අනුවාදය පරීක්ෂා කිරීමේ දෝෂයකි: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "පිටවීම"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "අසාර්ථකයි: ගොනු %d\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "මෙම ප්‍රවර්ගය පෙරහන් කරන්න..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "බල යාවත්කාලීන (සංවර්ධක)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "මට තත්පර කිහිපයක් දෙන්න ... දත්ත පූරණය කරමින්"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ප්‍රියතම ලැයිස්තුව ඉවත් කර ඇත"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "දත්ත පූරණය කරමින්... කරුණාකර රැඳී සිටින්න"
 
 msgid "Options"
-msgstr ""
+msgstr "විකල්ප"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "කරුණාකර දැන් තෝරන්න ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ඉවත් කරන්න"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "HasBahCa ප්‍රියතම මල් කළඹ සියල්ල ඉවත් කරන්නද?"
 
 msgid "Select"
-msgstr ""
+msgstr "තෝරන්න"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "යාවත්කාලීන වර්ගය තෝරන්න:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "ප්‍රියතම %s ලැයිස්තුව කලවම් කරන්න"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "සාර්ථකව බාගන්නා ලදී: ගොනු %d\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "යාවත්කාලීන කිරීම නවත්වන ලදී!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub වෙතින් M3U ධාවන ලැයිස්තු යාවත්කාලීන කරන්න"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "ප්ලගිනය නව අනුවාදයට යාවත්කාලීන කරන්න"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "කරුණාකර ඉන්න..."

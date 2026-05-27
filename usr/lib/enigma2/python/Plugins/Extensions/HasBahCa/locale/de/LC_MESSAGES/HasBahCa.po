@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Zugriff verweigert oder falsche PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Glückwunsch! Sie haben bereits die neueste Version..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Möchten Sie das Update ( %s ) jetzt installieren?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Download fehlgeschlagen!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Heruntergeladen: %d Dateien"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "ALLE Playlists werden heruntergeladen..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Fehler beim Überprüfen der Version: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ausfahrt"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Fehlgeschlagen: %d Dateien\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtern Sie diese Kategorie..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Update erzwingen (Entwickler)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Geben Sie mir ein paar Sekunden ... die Daten werden geladen"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Die HasBahCa-Favoritenliste wurde entfernt"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Daten werden geladen... Bitte warten"
 
 msgid "Options"
-msgstr ""
+msgstr "Optionen"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Bitte wählen Sie jetzt ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Entfernen"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Alle HasBahCa Lieblingsstrauß entfernen?"
 
 msgid "Select"
-msgstr ""
+msgstr "Wählen"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Update-Typ auswählen:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Favoritenliste %s in zufälliger Reihenfolge mischen"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Erfolgreich heruntergeladen: %d Dateien\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Update abgebrochen!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Aktualisieren Sie M3U-Playlists von GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Plugin auf neue Version aktualisieren"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Bitte warten..."

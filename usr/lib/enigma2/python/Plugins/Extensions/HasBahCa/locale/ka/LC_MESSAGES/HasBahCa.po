@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "წვდომა აკრძალულია ან არასწორი PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "უკან"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "გილოცავ! თქვენ უკვე გაქვთ უახლესი ვერსია..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "გსურთ განახლების ( %s) ინსტალაცია ახლა?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ჩამოტვირთვა ვერ მოხერხდა!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ჩამოტვირთულია: %d ფაილი"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "მიმდინარეობს ყველა დასაკრავი სიის ჩამოტვირთვა..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "შეცდომა ვერსიის შემოწმებისას: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "ვერ მოხერხდა: %d ფაილი\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ამ კატეგორიის გაფილტვრა..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "იძულებითი განახლება (დეველოპერი)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "მომეცი რამდენიმე წამი ... მონაცემების ჩატვირთვა"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa ფავორიტების სია ამოღებულია"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "იტვირთება მონაცემები... გთხოვთ დაელოდოთ"
 
 msgid "Options"
-msgstr ""
+msgstr "ოფციები"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "გთხოვთ ახლა შეარჩიოთ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ამოღება"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "წაშალოთ ყველა HasBahCa-ს საყვარელი თაიგული?"
 
 msgid "Select"
-msgstr ""
+msgstr "აირჩიეთ"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "აირჩიეთ განახლების ტიპი:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "რჩეული %s სიის არევა მიმდინარეობს"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "წარმატებით ჩამოიტვირთა: %d ფაილი\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "განახლება შეწყდა!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "განაახლეთ M3U დასაკრავი სიები GitHub-დან"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "განაახლეთ დანამატი ახალ ვერსიაზე"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "დაელოდე გთხოვ..."

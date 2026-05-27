@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "访问被拒绝或 PIN 码错误"
 
 msgid "Back"
-msgstr ""
+msgstr "后退"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "恭喜！您已经拥有最新版本..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "您想立即安装更新 (%s) 吗？"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "下载失败！！！"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "已下载：%d 个文件"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "正在下载所有播放列表..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "检查版本时出错：%s"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "失败: %d 个文件\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "过滤此类别..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "强制更新（开发者）"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "给我几秒钟...加载数据"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa 收藏夹列表已被删除"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "正在加载数据...请稍候"
 
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "现在请选择..."
 
 msgid "Remove"
-msgstr ""
+msgstr "消除"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "删除所有 HasBahCa 最喜欢的花束？"
 
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "选择更新类型："
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "正在随机播放收藏夹 %s 列表"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "已成功下载: %d 个文件\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "更新中止！"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "从 GitHub 更新 M3U 播放列表"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "将插件更新到新版本"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "请稍等..."

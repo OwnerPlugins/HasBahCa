@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Adgang nægtet eller forkert pinkode"
 
 msgid "Back"
-msgstr ""
+msgstr "Tilbage"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Tillykke! Du har allerede den seneste version..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Vil du installere opdatering ( %s ) nu?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Download mislykkedes!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Downloadede: %d filer"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Downloader ALLE afspilningslister..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Fejl ved kontrol af version: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Udgang"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Mislykkedes: %d filer\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrer denne kategori..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Tving opdatering (udvikler)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Giv mig et par sekunder ... indlæser dataene"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa Favorites List er blevet fjernet"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Indlæser data... Vent venligst"
 
 msgid "Options"
-msgstr ""
+msgstr "Valgmuligheder"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Vælg nu..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjerne"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Fjern alle HasBahCa favoritbuket?"
 
 msgid "Select"
-msgstr ""
+msgstr "Vælge"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Vælg opdateringstype:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Bland favorit %s liste i gang"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Downloadet: %d filer\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Opdatering afbrudt!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Opdater M3U-afspilningslister fra GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Opdater plugin til ny version"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Vent venligst..."

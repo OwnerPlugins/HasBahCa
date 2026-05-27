@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Tinanggihan ang pag-access o maling PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Bumalik"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Congrats! Mayroon ka nang pinakabagong bersyon..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Gusto mo bang mag-install ng update ( %s ) ngayon?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Nabigo ang pag-download!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Na-download: %d file"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Dina-download ang LAHAT ng playlist..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Error sa pagsuri sa bersyon: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Nabigo: %d file\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "I-filter ang kategoryang ito..."
 
 msgid "Force Update (Developer)"
 msgstr ""
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Bigyan mo ako ng ilang segundo ... nilo-load ang data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Ang Listahan ng Mga Paborito ng HasBahCa ay tinanggal"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Naglo-load ng data... Mangyaring maghintay"
 
 msgid "Options"
-msgstr ""
+msgstr "Mga pagpipilian"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Pakipili ngayon..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Alisin"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Alisin ang lahat ng HasBahCa Favorite Bouquet ?"
 
 msgid "Select"
-msgstr ""
+msgstr "Pumili"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Piliin ang uri ng pag-update:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "I-shuffle ang Paboritong %s na Listahan sa Isinasagawa"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Matagumpay na na-download: %d file\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Na-abort ang Update!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "I-update ang M3U Playlists mula sa GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "I-update ang Plugin sa bagong bersyon"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Wait please..."

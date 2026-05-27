@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "ઍક્સેસ નકારી અથવા ખોટો PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "પાછળ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "અભિનંદન! તમારી પાસે પહેલેથી જ નવીનતમ સંસ્કરણ છે..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "શું તમે હમણાં અપડેટ (%s) ઇન્સ્ટોલ કરવા માંગો છો?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "ડાઉનલોડ નિષ્ફળ !!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "ડાઉનલોડ કરેલ: %d ફાઇલો"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "તમામ પ્લેલિસ્ટ ડાઉનલોડ કરી રહ્યાં છીએ..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "સંસ્કરણ તપાસવામાં ભૂલ: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "બહાર નીકળો"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "નિષ્ફળ: %d ફાઇલો\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "આ શ્રેણીને ફિલ્ટર કરો..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "ફોર્સ અપડેટ (વિકાસકર્તા)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "મને થોડી સેકન્ડ આપો... ડેટા લોડ કરી રહ્યા છીએ"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa મનપસંદ યાદી દૂર કરવામાં આવી છે"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "ડેટા લોડ કરી રહ્યું છે... કૃપા કરીને રાહ જુઓ"
 
 msgid "Options"
-msgstr ""
+msgstr "વિકલ્પો"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "કૃપા કરીને હવે પસંદ કરો..."
 
 msgid "Remove"
-msgstr ""
+msgstr "દૂર કરો"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "બધા HasBahCa મનપસંદ કલગી દૂર કરો?"
 
 msgid "Select"
-msgstr ""
+msgstr "પસંદ કરો"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "અપડેટ પ્રકાર પસંદ કરો:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "મનપસંદ %s સૂચિને શફલ કરો પ્રક્રિયામાં છે"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "સફળતાપૂર્વક ડાઉનલોડ: %d ફાઇલો\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "અપડેટ રદ કર્યું!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub થી M3U પ્લેલિસ્ટ અપડેટ કરો"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "પ્લગઇનને નવા સંસ્કરણ પર અપડેટ કરો"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "કૃપા કરીને રાહ જુઓ ..."

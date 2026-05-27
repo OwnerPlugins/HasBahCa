@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Aċċess miċħud jew PIN ħażin"
 
 msgid "Back"
-msgstr ""
+msgstr "Lura"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Prosit! Diġà għandek l-aħħar verżjoni..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Trid tinstalla l-aġġornament ( %s ) issa?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Niżżel fallut!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Niżżel: %d fajls"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Niżżel il-playlists KOLLHA..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Żball fil-verifika tal-verżjoni: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Falla: %d fajls\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Iffiltra din il-kategorija..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Aġġornament tal-Forza (Iżviluppatur)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Agħtini ftit sekondi ... tagħbija tad-data"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "Lista tal-Favoriti HasBahCa tneħħiet"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Tagħbija tad-dejta... Jekk jogħġbok stenna"
 
 msgid "Options"
-msgstr ""
+msgstr "Għażliet"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Jekk jogħġbok issa agħżel..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Neħħi"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Neħħi l-Bukkett favorit kollu tal-HasBahCa?"
 
 msgid "Select"
-msgstr ""
+msgstr "Agħżel"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Agħżel it-tip ta' aġġornament:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Ħajt il-Lista %s Favoriti fil-Progress"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Niżżel b'suċċess: %d fajls\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aġġornament Abortat!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Aġġorna l-Playlists M3U minn GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Aġġorna Plugin għal verżjoni ġdida"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Stenna jekk jogħġbok..."

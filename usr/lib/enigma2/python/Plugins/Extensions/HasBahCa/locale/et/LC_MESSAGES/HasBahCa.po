@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Juurdepääs keelatud või vale PIN-kood"
 
 msgid "Back"
-msgstr ""
+msgstr "Tagasi"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Õnnitlused! Teil on juba uusim versioon..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Kas soovite värskenduse ( %s ) kohe installida?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Allalaadimine ebaõnnestus!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Allalaaditud: %d faili"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "KÕIGI esitusloendite allalaadimine..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Viga versiooni kontrollimisel: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Ebaõnnestunud: %d faili\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtreeri see kategooria..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Sundvärskendus (arendaja)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Andke mulle paar sekundit ... andmete laadimine"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa lemmikute loend on eemaldatud"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Andmete laadimine... Palun oodake"
 
 msgid "Options"
-msgstr ""
+msgstr "Valikud"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Palun valige nüüd..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Eemalda"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Kas eemaldada kogu HasBahCa lemmikkimp?"
 
 msgid "Select"
-msgstr ""
+msgstr "Valige"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Valige värskenduse tüüp:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Juhuslik lemmikute %s loend on pooleli"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Edukalt alla laaditud: %d faili\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Värskendus katkestatud!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Värskendage GitHubist M3U esitusloendeid"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Värskendage pistikprogrammi uuele versioonile"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Oota palun..."

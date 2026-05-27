@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "تم رفض الوصول أو رقم PIN خاطئ"
 
 msgid "Back"
-msgstr ""
+msgstr "خلف"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "هل تريد تثبيت التحديث ( %s ) الآن؟"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "فشل التحميل!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "تم تنزيل: %d ملف"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "جارٍ تنزيل جميع قوائم التشغيل..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "خطأ في التحقق من الإصدار: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "فشل: %d ملف\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "تصفية هذه الفئة..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "فرض التحديث (المطور)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "أعطني بضع ثواني...أقوم بتحميل البيانات"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "تمت إزالة قائمة المفضلة HasBahCa"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "جارٍ تحميل البيانات... الرجاء الانتظار"
 
 msgid "Options"
-msgstr ""
+msgstr "خيارات"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "الرجاء الآن تحديد..."
 
 msgid "Remove"
-msgstr ""
+msgstr "يزيل"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "إزالة جميع باقة HasBahCa المفضلة؟"
 
 msgid "Select"
-msgstr ""
+msgstr "يختار"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "حدد نوع التحديث:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "تبديل قائمة %s المفضلة قيد التقدم"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "تم التنزيل بنجاح: %d ملف\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "تم إحباط التحديث!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "قم بتحديث قوائم تشغيل M3U من GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "تحديث البرنامج المساعد إلى الإصدار الجديد"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "انتظر من فضلك..."

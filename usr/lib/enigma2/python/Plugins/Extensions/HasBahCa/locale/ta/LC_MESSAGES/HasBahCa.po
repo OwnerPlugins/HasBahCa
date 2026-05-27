@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "அணுகல் மறுக்கப்பட்டது அல்லது தவறான பின்"
 
 msgid "Back"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "வாழ்த்துகள்! உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "புதுப்பிப்பை (%s) இப்போது நிறுவ விரும்புகிறீர்களா?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "பதிவிறக்கம் தோல்வி!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "பதிவிறக்கப்பட்டது: %d கோப்புகள்"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "அனைத்து பிளேலிஸ்ட்களையும் பதிவிறக்குகிறது..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "பதிப்பைச் சரிபார்ப்பதில் பிழை: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "தோல்வி: %d கோப்புகள்\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "இந்த வகையை வடிகட்டவும்..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "கட்டாய புதுப்பிப்பு (டெவலப்பர்)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "சில வினாடிகள் கொடுங்கள்... தரவை ஏற்றுகிறது"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa பிடித்தவை பட்டியல் அகற்றப்பட்டது"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "தரவை ஏற்றுகிறது... காத்திருக்கவும்"
 
 msgid "Options"
-msgstr ""
+msgstr "விருப்பங்கள்"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "தயவுசெய்து இப்போது தேர்ந்தெடுக்கவும்..."
 
 msgid "Remove"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "அனைத்து HasBahCa பிடித்த பூச்செண்டுகளையும் அகற்றவா?"
 
 msgid "Select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "புதுப்பிப்பு வகையைத் தேர்ந்தெடுக்கவும்:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "பிடித்த %s பட்டியலை மாற்றவும்"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "பதிவிறக்கம் செய்யப்பட்டது: %d கோப்புகள்\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "GitHub இலிருந்து M3U பிளேலிஸ்ட்களைப் புதுப்பிக்கவும்"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "புதிய பதிப்பிற்கு செருகுநிரலைப் புதுப்பிக்கவும்"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "காத்திருங்கள்..."

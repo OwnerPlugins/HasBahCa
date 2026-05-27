@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "Access denied or wrong PIN"
-msgstr ""
+msgstr "Piekļuve liegta vai nepareizs PIN"
 
 msgid "Back"
-msgstr ""
+msgstr "Atpakaļ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Vai vēlaties instalēt atjauninājumu ( %s ) tūlīt?"
 
 msgid "Download Failed!!!"
-msgstr ""
+msgstr "Lejupielāde neizdevās!!!"
 
 msgid "Downloaded: %d files"
-msgstr ""
+msgstr "Lejupielādēti: %d faili"
 
 msgid "Downloading ALL playlists..."
-msgstr ""
+msgstr "Notiek VISU atskaņošanas sarakstu lejupielāde..."
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Pārbaudot versiju, radās kļūda: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "Failed: %d files\n"
-msgstr ""
+msgstr "Neizdevās: %d faili\n"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrēt šo kategoriju..."
 
 msgid "Force Update (Developer)"
-msgstr ""
+msgstr "Piespiedu atjaunināšana (izstrādātājs)"
 
 msgid "Give me a few seconds ... loading the data"
-msgstr ""
+msgstr "Dodiet man dažas sekundes ... datu ielāde"
 
 msgid "HasBahCa Favorites List have been removed"
-msgstr ""
+msgstr "HasBahCa izlases saraksts ir noņemts"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Notiek datu ielāde... Lūdzu, uzgaidiet"
 
 msgid "Options"
-msgstr ""
+msgstr "Iespējas"
 
 msgid "Please now select ..."
-msgstr ""
+msgstr "Lūdzu, tagad atlasiet..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Noņemt"
 
 msgid "Remove all HasBahCa Favorite Bouquet ?"
-msgstr ""
+msgstr "Vai noņemt visu HasBahCa iecienītāko pušķi?"
 
 msgid "Select"
-msgstr ""
+msgstr "Izvēlieties"
 
 msgid "Select update type:"
-msgstr ""
+msgstr "Izvēlieties atjaunināšanas veidu:"
 
 msgid "Shuffle Favorite %s List in Progress"
-msgstr ""
+msgstr "Notiek izlases %s saraksts jauktā secībā"
 
 msgid "Successfully downloaded: %d files\n"
-msgstr ""
+msgstr "Veiksmīgi lejupielādēti: %d faili\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atjaunināšana pārtraukta!"
 
 msgid "Update M3U Playlists from GitHub"
-msgstr ""
+msgstr "Atjauniniet M3U atskaņošanas sarakstus no GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "Atjauniniet spraudni uz jaunu versiju"
 
 msgid "Wait please ..."
-msgstr ""
+msgstr "Pagaidi lūdzu..."
