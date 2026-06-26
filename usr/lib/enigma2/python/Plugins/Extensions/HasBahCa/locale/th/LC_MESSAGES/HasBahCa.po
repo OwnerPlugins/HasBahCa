@@ -92,7 +92,7 @@ msgid "Update M3U Playlists from GitHub"
 msgstr "อัปเดตเพลย์ลิสต์ M3U จาก GitHub"
 
 msgid "Update Plugin to new version"
-msgstr ""
+msgstr "อัปเดตปลั๊กอินเป็นเวอร์ชันใหม่"
 
 msgid "Wait please ..."
 msgstr "กรุณารอสักครู่..."
