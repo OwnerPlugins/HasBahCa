@@ -163,7 +163,7 @@ if sslverify:
 
 screenwidth = getDesktop(0).size()
 if screenwidth.width() == 2560:
-    path_skin = os_path.join(plugin_path, 'res/skins/uhd')
+    path_skin = os_path.join(plugin_path, 'res/skins/wqhd')
 elif screenwidth.width() == 1920:
     path_skin = os_path.join(plugin_path, 'res/skins/fhd')
 else:
@@ -380,14 +380,11 @@ class MainHasBahCa(Screen):
                 'DirectionActions',
                 'ColorActions',
                 'ButtonSetupActions',
-                # 'InfobarEPGActions',
-                # 'ChannelSelectBaseActions'
             ],
             {
                 'ok': self.okRun,
                 'back': self.closerm,
                 'cancel': self.closerm,
-                # 'yellow': self.update_me,  # update_me,
                 'yellow': self.onYellowPressed,
                 'green': self.okRun,
                 'blue': self.msgdeleteBouquets,
@@ -1025,8 +1022,6 @@ class HasBahCaC(Screen):
                 'ok': self.okRun,
                 'green': self.okRun,
                 'red': self.close,
-                # 'yellow': self.convert,
-                # 'back': self.close(),
                 'cancel': self.close
             },
             -2
@@ -1382,7 +1377,6 @@ class HasBahCa1(Screen):
             MessageBox.TYPE_INFO,
             timeout=5)
 
-# remove bouquet  'hbc'
     def msgdeleteBouquets(self):
         self.session.openWithCallback(
             self.deleteBouquets,
