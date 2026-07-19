@@ -26,6 +26,7 @@
 
 
 
+
 msgid "Access denied or wrong PIN"
 msgstr ""
 
