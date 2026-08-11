@@ -43,8 +43,8 @@ msgstr "Di guhertoya kontrolê de çewtî: %s"
 msgid "Exit"
 msgstr "Derî"
 
-msgid "Failed: %d files\n"
-msgstr "Serneket: %d pel\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Serneket: %d pel\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Vê kategoriyê fîlter bike..."
@@ -82,8 +82,8 @@ msgstr "Cureya nûvekirinê hilbijêrin:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Lîsteya %s ya bijare ya di pêşkeftinê de ye bihejîne"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Bi serketî hat daxistin: %d pel\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Bi serketî hat daxistin: %d pel\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Nûvekirin hate betal kirin!"

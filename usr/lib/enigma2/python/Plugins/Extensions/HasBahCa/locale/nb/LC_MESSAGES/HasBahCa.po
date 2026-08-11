@@ -44,8 +44,8 @@ msgstr "Feil under kontroll av versjon: %s"
 msgid "Exit"
 msgstr "Gå"
 
-msgid "Failed: %d files\n"
-msgstr "Mislyktes: %d filer\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Mislyktes: %d filer\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrer denne kategorien..."
@@ -83,8 +83,8 @@ msgstr "Velg oppdateringstype:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Bland favoritt %s-listen pågår"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Vellykket nedlasting: %d filer\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Vellykket nedlasting: %d filer\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Oppdatering avbrutt!"

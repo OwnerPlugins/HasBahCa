@@ -43,8 +43,8 @@ msgstr "檢查版本時發生錯誤：%s"
 msgid "Exit"
 msgstr "出口"
 
-msgid "Failed: %d files\n"
-msgstr "失敗: %d 個檔案\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "失敗: %d 個檔案\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "過濾此類別..."
@@ -82,8 +82,8 @@ msgstr "選擇更新類型："
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "正在隨機播放收藏夾 %s 列表"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "已成功下載: %d 個檔案\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "已成功下載: %d 個檔案\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "更新中止！"

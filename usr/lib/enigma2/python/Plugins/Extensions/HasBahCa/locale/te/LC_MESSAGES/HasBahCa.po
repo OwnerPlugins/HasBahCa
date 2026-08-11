@@ -43,8 +43,8 @@ msgstr "సంస్కరణను తనిఖీ చేయడంలో లో
 msgid "Exit"
 msgstr "నిష్క్రమించు"
 
-msgid "Failed: %d files\n"
-msgstr "విఫలమైంది: %d ఫైల్‌లు\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "విఫలమైంది: %d ఫైల్‌లు\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ఈ వర్గాన్ని ఫిల్టర్ చేయండి..."
@@ -82,8 +82,8 @@ msgstr "నవీకరణ రకాన్ని ఎంచుకోండి:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ఇష్టమైన %s జాబితాను షఫుల్ చేయడం ప్రోగ్రెస్‌లో ఉంది"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "విజయవంతంగా డౌన్‌లోడ్ చేయబడింది: %d ఫైల్‌లు\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "విజయవంతంగా డౌన్‌లోడ్ చేయబడింది: %d ఫైల్‌లు\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "నవీకరణ రద్దు చేయబడింది!"

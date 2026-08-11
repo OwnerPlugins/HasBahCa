@@ -44,8 +44,8 @@ msgstr "Klaida tikrinant versiją: %s"
 msgid "Exit"
 msgstr "Išeiti"
 
-msgid "Failed: %d files\n"
-msgstr "Nepavyko: %d failų\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Nepavyko: %d failų\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtruoti šią kategoriją..."
@@ -83,8 +83,8 @@ msgstr "Pasirinkite atnaujinimo tipą:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Vykdomas mėgstamų %s sąrašas maišyti"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Sėkmingai atsisiųsta: %d failų\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Sėkmingai atsisiųsta: %d failų\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Atnaujinimas nutrauktas!"

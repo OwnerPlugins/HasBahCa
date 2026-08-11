@@ -43,8 +43,8 @@ msgstr "Хувилбарыг шалгахад алдаа гарлаа: %s"
 msgid "Exit"
 msgstr "Гарах"
 
-msgid "Failed: %d files\n"
-msgstr "Амжилтгүй: %d файл\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Амжилтгүй: %d файл\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Энэ ангиллыг шүүх..."
@@ -82,8 +82,8 @@ msgstr "Шинэчлэлийн төрлийг сонгоно уу:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Дуртай %s жагсаалтыг холих хийгдэж байна"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Амжилттай татагдсан: %d файл\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Амжилттай татагдсан: %d файл\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Шинэчлэлтийг зогсоосон!"

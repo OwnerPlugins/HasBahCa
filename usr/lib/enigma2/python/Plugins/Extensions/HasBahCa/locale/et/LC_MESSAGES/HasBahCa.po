@@ -44,8 +44,8 @@ msgstr "Viga versiooni kontrollimisel: %s"
 msgid "Exit"
 msgstr "Välju"
 
-msgid "Failed: %d files\n"
-msgstr "Ebaõnnestunud: %d faili\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Ebaõnnestunud: %d faili\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtreeri see kategooria..."
@@ -83,8 +83,8 @@ msgstr "Valige värskenduse tüüp:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Juhuslik lemmikute %s loend on pooleli"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Edukalt alla laaditud: %d faili\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Edukalt alla laaditud: %d faili\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Värskendus katkestatud!"

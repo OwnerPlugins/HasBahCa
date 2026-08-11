@@ -44,8 +44,8 @@ msgstr "Virhe tarkistettaessa versiota: %s"
 msgid "Exit"
 msgstr "Poistu"
 
-msgid "Failed: %d files\n"
-msgstr "Epäonnistui: %d tiedostoa\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Epäonnistui: %d tiedostoa\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Suodata tämä luokka..."
@@ -83,8 +83,8 @@ msgstr "Valitse päivitystyyppi:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Sekoita suosikki %s -luettelo käynnissä"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Ladattu onnistuneesti: %d tiedostoa\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Ladattu onnistuneesti: %d tiedostoa\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Päivitys keskeytetty!"

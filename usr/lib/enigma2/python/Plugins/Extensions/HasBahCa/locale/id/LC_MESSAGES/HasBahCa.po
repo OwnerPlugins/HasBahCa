@@ -43,8 +43,8 @@ msgstr "Kesalahan saat memeriksa versi: %s"
 msgid "Exit"
 msgstr "KELUAR"
 
-msgid "Failed: %d files\n"
-msgstr "Gagal: %d file\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Gagal: %d file\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filter kategori ini..."
@@ -82,8 +82,8 @@ msgstr "Pilih jenis pembaruan:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Acak Daftar %s Favorit Sedang Berlangsung"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Berhasil mengunduh: %d file\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Berhasil mengunduh: %d file\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Pembaruan Dibatalkan!"

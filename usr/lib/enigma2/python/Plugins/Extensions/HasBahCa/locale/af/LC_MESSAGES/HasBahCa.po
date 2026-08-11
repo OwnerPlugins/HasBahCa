@@ -43,8 +43,8 @@ msgstr "Kon nie weergawe nagaan nie: %s"
 msgid "Exit"
 msgstr "Verlaat"
 
-msgid "Failed: %d files\n"
-msgstr "Misluk: %d lêers\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Misluk: %d lêers\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtreer hierdie kategorie..."
@@ -82,8 +82,8 @@ msgstr "Kies opdateringtipe:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Skommel gunsteling %s lys aan die gang"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Suksesvol afgelaai: %d lêers\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Suksesvol afgelaai: %d lêers\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Opdatering gestop!"

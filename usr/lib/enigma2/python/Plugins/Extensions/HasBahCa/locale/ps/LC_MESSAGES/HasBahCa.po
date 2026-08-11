@@ -43,8 +43,8 @@ msgstr "د نسخې چک کولو کې تېروتنه: %s"
 msgid "Exit"
 msgstr "وتل"
 
-msgid "Failed: %d files\n"
-msgstr "ناکامه شوې: %d فایلونه\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "ناکامه شوې: %d فایلونه\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "دا کټګوري فلټر کړئ..."
@@ -82,8 +82,8 @@ msgstr "د تازه کولو ډول غوره کړئ:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "د خوښې %s لیست په پرمختګ کې بدل کړئ"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "په بریالیتوب سره ډاونلوډ شوی: %d فایلونه\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "په بریالیتوب سره ډاونلوډ شوی: %d فایلونه\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "تازه کول لغوه شوي!"

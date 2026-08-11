@@ -43,8 +43,8 @@ msgstr "Версияне тикшерүдә хата:% s"
 msgid "Exit"
 msgstr "Чык"
 
-msgid "Failed: %d files\n"
-msgstr "Уңайсыз:% d файллар \ n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Уңайсыз:% d файллар \\\\\\\\ n"
 
 msgid "Filter this category..."
 msgstr "Бу категорияне фильтрлагыз ..."
@@ -82,8 +82,8 @@ msgstr "Яңарту төрен сайлагыз:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Яраткан% s исемлеген алыштырыгыз"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Уңышлы йөкләнде:% d файллар \ n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Уңышлы йөкләнде:% d файллар \\\\\\\\ n"
 
 msgid "Update Aborted!"
 msgstr "Яңартылган!"

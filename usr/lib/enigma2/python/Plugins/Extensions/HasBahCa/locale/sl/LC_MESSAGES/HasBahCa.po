@@ -44,8 +44,8 @@ msgstr "Napaka pri preverjanju različice: %s"
 msgid "Exit"
 msgstr "Izhod"
 
-msgid "Failed: %d files\n"
-msgstr "Neuspešno: %d datotek\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Neuspešno: %d datotek\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtriraj to kategorijo ..."
@@ -83,8 +83,8 @@ msgstr "Izberite vrsto posodobitve:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Premešaj seznam priljubljenih %s v teku"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Uspešno preneseno: %d datotek\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Uspešno preneseno: %d datotek\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Posodobitev prekinjena!"

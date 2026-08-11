@@ -43,8 +43,8 @@ msgstr "خطا در بررسی نسخه: %s"
 msgid "Exit"
 msgstr "خارج شوید"
 
-msgid "Failed: %d files\n"
-msgstr "ناموفق: %d فایل\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "ناموفق: %d فایل\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "فیلتر کردن این دسته..."
@@ -82,8 +82,8 @@ msgstr "انتخاب نوع به روز رسانی:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "به هم زدن لیست %s مورد علاقه در حال انجام است"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "دانلود با موفقیت: %d فایل\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "دانلود با موفقیت: %d فایل\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "به روز رسانی لغو شد!"

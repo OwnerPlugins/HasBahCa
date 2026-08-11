@@ -43,8 +43,8 @@ msgstr "Wersiýany barlamakda säwlik:% s"
 msgid "Exit"
 msgstr "Çyk"
 
-msgid "Failed: %d files\n"
-msgstr "Şowsuz:% d faýllar \ n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Şowsuz:% d faýllar \\\\\\\\ n"
 
 msgid "Filter this category..."
 msgstr "Bu kategoriýany süzüň ..."
@@ -82,8 +82,8 @@ msgstr "Täzelenme görnüşini saýlaň:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Iň halanýan% s sanawyny üýtgediň"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Üstünlik bilen göçürildi:% d faýllar \ n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Üstünlik bilen göçürildi:% d faýllar \\\\\\\\ n"
 
 msgid "Update Aborted!"
 msgstr "Täzelenme ýatyryldy!"

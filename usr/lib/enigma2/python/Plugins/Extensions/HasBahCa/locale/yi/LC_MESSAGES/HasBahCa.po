@@ -43,8 +43,8 @@ msgstr "טעות טשעק ווערסיע: %s"
 msgid "Exit"
 msgstr "אַרויסגאַנג"
 
-msgid "Failed: %d files\n"
-msgstr "דורכפאַל: %d טעקעס\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "דורכפאַל: %d טעקעס\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "פילטער די קאטעגאריע..."
@@ -82,8 +82,8 @@ msgstr "אויסקלייַבן דערהייַנטיקן טיפּ:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "שאַרן באַליבסטע %s רשימה אין פּראָגרעס"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "געראָטן דאַונלאָודיד: %d טעקעס\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "געראָטן דאַונלאָודיד: %d טעקעס\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "דערהייַנטיקן אַבאָרטיד!"

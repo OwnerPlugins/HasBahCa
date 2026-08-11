@@ -2536,5 +2536,7 @@
   "dfe1b82ae354b81da7f42e31d7a45dad": "從 GitHub 更新 M3U 播放列表",
   "cf22a8db4c571de87ec76699c3ef8830": "將插件更新到新版本",
   "674d188bb1689b893d25a7b69d377ec4": "請稍等...",
-  "78146dc1cdf4d88433781f9fac0978f1": "อัปเดตปลั๊กอินเป็นเวอร์ชันใหม่"
+  "78146dc1cdf4d88433781f9fac0978f1": "อัปเดตปลั๊กอินเป็นเวอร์ชันใหม่",
+  "f8d6e559d94277704ef648562c17d6f5": "Failed: %d files\\\\\\\\n",
+  "dad8ab0049c120d0f2abde9a17fcc187": "Successfully downloaded: %d files\\\\\\\\n"
 }

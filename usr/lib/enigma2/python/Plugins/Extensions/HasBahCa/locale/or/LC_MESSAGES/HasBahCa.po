@@ -43,8 +43,8 @@ msgstr "ସଂସ୍କରଣ ଯାଞ୍ଚରେ ତ୍ରୁଟି:% s"
 msgid "Exit"
 msgstr "ପ୍ରସ୍ଥାନ"
 
-msgid "Failed: %d files\n"
-msgstr "ବିଫଳ:% d ଫାଇଲଗୁଡିକ \ n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "ବିଫଳ:% d ଫାଇଲଗୁଡିକ \\\\\\\\ n"
 
 msgid "Filter this category..."
 msgstr "ଏହି ବର୍ଗ ଫିଲ୍ଟର୍ କରନ୍ତୁ ..."
@@ -82,8 +82,8 @@ msgstr "ଅଦ୍ୟତନ ପ୍ରକାର ଚୟନ କରନ୍ତୁ:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ପ୍ରଗତିରେ ପ୍ରିୟ% s ତାଲିକାକୁ ବଦଳାନ୍ତୁ |"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "ସଫଳତାର ସହିତ ଡାଉନଲୋଡ୍ ହୋଇଛି:% d ଫାଇଲଗୁଡିକ \ n |"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "ସଫଳତାର ସହିତ ଡାଉନଲୋଡ୍ ହୋଇଛି:% d ଫାଇଲଗୁଡିକ \\\\\\\\ n |"
 
 msgid "Update Aborted!"
 msgstr "ପରିତ୍ୟାଗ କରାଯାଇଥିବା ଅଦ୍ୟତନ!"

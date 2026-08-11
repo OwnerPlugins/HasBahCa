@@ -43,8 +43,8 @@ msgstr "Flater by it kontrolearjen fan ferzje: %s"
 msgid "Exit"
 msgstr "Útgong"
 
-msgid "Failed: %d files\n"
-msgstr "Mislearre: %d triemmen\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Mislearre: %d triemmen\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filter dizze kategory..."
@@ -82,8 +82,8 @@ msgstr "Selektearje updatetype:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Shuffle Favoriete %s List yn útfiering"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Mei sukses ynladen: %d triemmen\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Mei sukses ynladen: %d triemmen\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Update ôfbrutsen!"

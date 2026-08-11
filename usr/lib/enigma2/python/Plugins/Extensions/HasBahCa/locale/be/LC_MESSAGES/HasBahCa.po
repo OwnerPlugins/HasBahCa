@@ -44,8 +44,8 @@ msgstr "Памылка праверкі версіі: %s"
 msgid "Exit"
 msgstr "Выхад"
 
-msgid "Failed: %d files\n"
-msgstr "Збой: %d файлы\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Збой: %d файлы\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Адфільтраваць гэтую катэгорыю..."
@@ -83,8 +83,8 @@ msgstr "Выберыце тып абнаўлення:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Ператасаваць спіс абраных %s"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Паспяхова спампавана: %d файлы\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Паспяхова спампавана: %d файлы\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Абнаўленне спынена!"

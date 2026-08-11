@@ -43,8 +43,8 @@ msgstr "સંસ્કરણ તપાસવામાં ભૂલ: %s"
 msgid "Exit"
 msgstr "બહાર નીકળો"
 
-msgid "Failed: %d files\n"
-msgstr "નિષ્ફળ: %d ફાઇલો\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "નિષ્ફળ: %d ફાઇલો\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "આ શ્રેણીને ફિલ્ટર કરો..."
@@ -82,8 +82,8 @@ msgstr "અપડેટ પ્રકાર પસંદ કરો:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "મનપસંદ %s સૂચિને શફલ કરો પ્રક્રિયામાં છે"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "સફળતાપૂર્વક ડાઉનલોડ: %d ફાઇલો\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "સફળતાપૂર્વક ડાઉનલોડ: %d ફાઇલો\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "અપડેટ રદ કર્યું!"

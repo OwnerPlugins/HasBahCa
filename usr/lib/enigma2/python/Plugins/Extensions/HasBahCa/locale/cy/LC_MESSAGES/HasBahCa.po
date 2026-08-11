@@ -43,8 +43,8 @@ msgstr "Gwall wrth wirio fersiwn: %s"
 msgid "Exit"
 msgstr "Ymadael"
 
-msgid "Failed: %d files\n"
-msgstr "Wedi methu: %d ffeil\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Wedi methu: %d ffeil\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Hidlo'r categori hwn..."
@@ -82,8 +82,8 @@ msgstr "Dewiswch y math o ddiweddariad:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Cymysgwch Hoff Rhestr %s ar Waith"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Wedi llwytho i lawr yn llwyddiannus: %d ffeil\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Wedi llwytho i lawr yn llwyddiannus: %d ffeil\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Diweddariad wedi'i Erthylu!"

@@ -44,8 +44,8 @@ msgstr "Ошибка проверки версии: %s"
 msgid "Exit"
 msgstr "Выход"
 
-msgid "Failed: %d files\n"
-msgstr "Ошибка: %d файлов\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Ошибка: %d файлов\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Отфильтровать эту категорию..."
@@ -83,8 +83,8 @@ msgstr "Выберите тип обновления:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Выполняется перемешивание избранного списка %s"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Успешно загружено: %d файлов\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Успешно загружено: %d файлов\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Обновление прервано!"

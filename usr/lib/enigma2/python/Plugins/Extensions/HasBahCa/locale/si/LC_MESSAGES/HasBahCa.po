@@ -43,8 +43,8 @@ msgstr "අනුවාදය පරීක්ෂා කිරීමේ දෝෂ
 msgid "Exit"
 msgstr "පිටවීම"
 
-msgid "Failed: %d files\n"
-msgstr "අසාර්ථකයි: ගොනු %d\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "අසාර්ථකයි: ගොනු %d\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "මෙම ප්‍රවර්ගය පෙරහන් කරන්න..."
@@ -82,8 +82,8 @@ msgstr "යාවත්කාලීන වර්ගය තෝරන්න:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ප්‍රියතම %s ලැයිස්තුව කලවම් කරන්න"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "සාර්ථකව බාගන්නා ලදී: ගොනු %d\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "සාර්ථකව බාගන්නා ලදී: ගොනු %d\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "යාවත්කාලීන කිරීම නවත්වන ලදී!"

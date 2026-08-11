@@ -4,32 +4,6 @@
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "Access denied or wrong PIN"
 msgstr ""
 
@@ -57,7 +31,7 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
-msgid "Failed: %d files\n"
+msgid "Failed: %d files\\n"
 msgstr ""
 
 msgid "Filter this category..."
@@ -96,7 +70,7 @@ msgstr ""
 msgid "Shuffle Favorite %s List in Progress"
 msgstr ""
 
-msgid "Successfully downloaded: %d files\n"
+msgid "Successfully downloaded: %d files\\n"
 msgstr ""
 
 msgid "Update Aborted!"

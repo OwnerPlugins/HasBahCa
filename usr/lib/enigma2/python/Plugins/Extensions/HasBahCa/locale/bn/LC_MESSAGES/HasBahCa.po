@@ -43,8 +43,8 @@ msgstr "সংস্করণ পরীক্ষা করার সময় �
 msgid "Exit"
 msgstr "প্রস্থান করুন"
 
-msgid "Failed: %d files\n"
-msgstr "ব্যর্থ হয়েছে: %d ফাইল\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "ব্যর্থ হয়েছে: %d ফাইল\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "এই বিভাগটি ফিল্টার করুন..."
@@ -82,8 +82,8 @@ msgstr "আপডেটের ধরন নির্বাচন করুন:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "প্রগতিতে প্রিয় %s তালিকা এলোমেলো করুন"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "সফলভাবে ডাউনলোড করা হয়েছে: %d ফাইল\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "সফলভাবে ডাউনলোড করা হয়েছে: %d ফাইল\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "আপডেট বাতিল করা হয়েছে!"

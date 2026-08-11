@@ -43,8 +43,8 @@ msgstr "പതിപ്പ് പരിശോധിക്കുന്നതി�
 msgid "Exit"
 msgstr "പുറത്ത്"
 
-msgid "Failed: %d files\n"
-msgstr "പരാജയപ്പെട്ടു: %d ഫയലുകൾ\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "പരാജയപ്പെട്ടു: %d ഫയലുകൾ\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ഈ വിഭാഗം ഫിൽട്ടർ ചെയ്യുക..."
@@ -82,8 +82,8 @@ msgstr "അപ്ഡേറ്റ് തരം തിരഞ്ഞെടുക്�
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ഇഷ്ടപ്പെട്ട %s ലിസ്റ്റ് ഷഫിൾ ചെയ്യുക പുരോഗതിയിലാണ്"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "വിജയകരമായി ഡൗൺലോഡ് ചെയ്തു: %d ഫയലുകൾ\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "വിജയകരമായി ഡൗൺലോഡ് ചെയ്തു: %d ഫയലുകൾ\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "അപ്ഡേറ്റ് നിർത്തലാക്കി!"

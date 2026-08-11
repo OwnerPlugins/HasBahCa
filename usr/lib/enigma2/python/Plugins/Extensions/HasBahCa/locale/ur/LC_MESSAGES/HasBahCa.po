@@ -43,8 +43,8 @@ msgstr "ورژن چیک کرنے میں خرابی: %s"
 msgid "Exit"
 msgstr "باہر نکلیں۔"
 
-msgid "Failed: %d files\n"
-msgstr "ناکام: %d فائلیں\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "ناکام: %d فائلیں\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "اس زمرے کو فلٹر کریں..."
@@ -82,8 +82,8 @@ msgstr "اپ ڈیٹ کی قسم منتخب کریں:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "فیورٹ %s کی فہرست جاری ہے۔"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "کامیابی سے ڈاؤن لوڈ ہو گئی: %d فائلیں\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "کامیابی سے ڈاؤن لوڈ ہو گئی: %d فائلیں\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "اپ ڈیٹ روک دیا گیا!"

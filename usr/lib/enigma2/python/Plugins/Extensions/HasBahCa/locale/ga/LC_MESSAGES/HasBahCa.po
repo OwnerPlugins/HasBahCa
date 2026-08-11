@@ -44,8 +44,8 @@ msgstr "Earráid agus leagan á sheiceáil: %s"
 msgid "Exit"
 msgstr "Scoir"
 
-msgid "Failed: %d files\n"
-msgstr "Theip ar: %d comhad\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Theip ar: %d comhad\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Scag an chatagóir seo..."
@@ -83,8 +83,8 @@ msgstr "Roghnaigh cineál nuashonraithe:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Suaitheadh ​​Liosta %s is Fearr ar Siúl"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "D'éirigh le híoslódáil: %d comhad\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "D'éirigh le híoslódáil: %d comhad\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Tobscoireadh an Nuashonrú!"

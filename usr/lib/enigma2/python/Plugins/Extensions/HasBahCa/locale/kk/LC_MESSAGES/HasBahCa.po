@@ -43,8 +43,8 @@ msgstr "Нұсқаны тексеру қатесі: %s"
 msgid "Exit"
 msgstr "Шығу"
 
-msgid "Failed: %d files\n"
-msgstr "Сәтсіз: %d файл\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Сәтсіз: %d файл\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Осы санатты сүзу..."
@@ -82,8 +82,8 @@ msgstr "Жаңарту түрін таңдаңыз:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Таңдаулы %s тізімін араластыру орындалуда"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Сәтті жүктелді: %d файл\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Сәтті жүктелді: %d файл\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Жаңарту тоқтатылды!"

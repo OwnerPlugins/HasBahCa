@@ -43,8 +43,8 @@ msgstr "Versiyani tekshirishda xatolik yuz berdi: %s"
 msgid "Exit"
 msgstr "Chiqish"
 
-msgid "Failed: %d files\n"
-msgstr "Muvaffaqiyatsiz: %d ta fayl\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Muvaffaqiyatsiz: %d ta fayl\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Ushbu turkumni filtrlash..."
@@ -82,8 +82,8 @@ msgstr "Yangilash turini tanlang:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Sevimli %s roʻyxatini aralashtirish davom etmoqda"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Muvaffaqiyatli yuklab olindi: %d ta fayl\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Muvaffaqiyatli yuklab olindi: %d ta fayl\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Yangilash bekor qilindi!"

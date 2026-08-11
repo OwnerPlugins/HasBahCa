@@ -44,8 +44,8 @@ msgstr "Chyba při kontrole verze: %s"
 msgid "Exit"
 msgstr "Výstup"
 
-msgid "Failed: %d files\n"
-msgstr "Selhalo: %d souborů\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Selhalo: %d souborů\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrovat tuto kategorii..."
@@ -83,8 +83,8 @@ msgstr "Vyberte typ aktualizace:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Probíhá náhodné přehrávání seznamu %s"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Úspěšně staženo: %d souborů\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Úspěšně staženo: %d souborů\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Aktualizace zrušena!"

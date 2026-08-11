@@ -44,8 +44,8 @@ msgstr "Pārbaudot versiju, radās kļūda: %s"
 msgid "Exit"
 msgstr "Iziet"
 
-msgid "Failed: %d files\n"
-msgstr "Neizdevās: %d faili\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Neizdevās: %d faili\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrēt šo kategoriju..."
@@ -83,8 +83,8 @@ msgstr "Izvēlieties atjaunināšanas veidu:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Notiek izlases %s saraksts jauktā secībā"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Veiksmīgi lejupielādēti: %d faili\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Veiksmīgi lejupielādēti: %d faili\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Atjaunināšana pārtraukta!"

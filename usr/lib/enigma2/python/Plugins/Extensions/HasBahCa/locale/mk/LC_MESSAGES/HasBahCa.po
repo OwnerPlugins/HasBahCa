@@ -43,8 +43,8 @@ msgstr "Грешка при проверка на верзијата: %s"
 msgid "Exit"
 msgstr "Излезете"
 
-msgid "Failed: %d files\n"
-msgstr "Не успеа: %d датотеки\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Не успеа: %d датотеки\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Филтрирајте ја оваа категорија..."
@@ -82,8 +82,8 @@ msgstr "Изберете тип на ажурирање:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Измешајте го списокот со омилени %s во тек"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Успешно преземени: %d датотеки\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Успешно преземени: %d датотеки\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Ажурирањето е прекинато!"

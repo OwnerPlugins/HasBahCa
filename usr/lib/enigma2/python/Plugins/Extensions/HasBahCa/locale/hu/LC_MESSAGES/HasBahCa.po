@@ -44,8 +44,8 @@ msgstr "Hiba a verzió ellenőrzésekor: %s"
 msgid "Exit"
 msgstr "Kijárat"
 
-msgid "Failed: %d files\n"
-msgstr "Sikertelen: %d fájl\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Sikertelen: %d fájl\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Kategória szűrése..."
@@ -83,8 +83,8 @@ msgstr "Válassza ki a frissítés típusát:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "A kedvenc %s listájának véletlenszerű lejátszása folyamatban"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Sikeresen letöltött: %d fájl\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Sikeresen letöltött: %d fájl\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Frissítés megszakítva!"

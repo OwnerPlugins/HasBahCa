@@ -43,8 +43,8 @@ msgstr "Версияны текшерүү катасы: %s"
 msgid "Exit"
 msgstr "Чыгыңыз"
 
-msgid "Failed: %d files\n"
-msgstr "Ишке ашкан жок: %d файл\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Ишке ашкан жок: %d файл\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Бул категорияны чыпкалоо..."
@@ -82,8 +82,8 @@ msgstr "Жаңыртуу түрүн тандаңыз:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Сүйүктүү %s тизмени аралаштыруу аткарылууда"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Ийгиликтүү жүктөлүп алынды: %d файл\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Ийгиликтүү жүктөлүп алынды: %d файл\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Жаңыртуу токтотулду!"

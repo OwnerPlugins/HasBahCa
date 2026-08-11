@@ -43,8 +43,8 @@ msgstr "Error en comprovar la versió: %s"
 msgid "Exit"
 msgstr "Sortida"
 
-msgid "Failed: %d files\n"
-msgstr "Error: %d fitxers\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Error: %d fitxers\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtra aquesta categoria..."
@@ -82,8 +82,8 @@ msgstr "Seleccioneu el tipus d'actualització:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Barreja la llista de favorits %s en curs"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "S'han baixat correctament: %d fitxers\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "S'han baixat correctament: %d fitxers\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Actualització avortada!"

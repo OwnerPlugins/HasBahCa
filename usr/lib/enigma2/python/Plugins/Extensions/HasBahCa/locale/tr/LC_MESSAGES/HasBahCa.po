@@ -44,8 +44,8 @@ msgstr "Sürüm kontrol edilirken hata oluştu: %s"
 msgid "Exit"
 msgstr "Çıkış"
 
-msgid "Failed: %d files\n"
-msgstr "Başarısız oldu: %d dosya\n"
+msgid "Failed: %d files\\\\\\\\n"
+msgstr "Başarısız oldu: %d dosya\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Bu kategoriyi filtrele..."
@@ -83,8 +83,8 @@ msgstr "Güncelleme türünü seçin:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Favori %s Listesini Karıştır Devam Ediyor"
 
-msgid "Successfully downloaded: %d files\n"
-msgstr "Başarıyla indirildi: %d dosya\n"
+msgid "Successfully downloaded: %d files\\\\\\\\n"
+msgstr "Başarıyla indirildi: %d dosya\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Güncelleme İptal Edildi!"
