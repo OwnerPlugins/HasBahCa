@@ -44,8 +44,9 @@ msgstr "Fout bij het controleren van versie: %s"
 msgid "Exit"
 msgstr "Uitgang"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Mislukt: %d bestanden\\\\\\\\n"
+msgstr "Mislukt: %d bestanden\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filter deze categorie..."
@@ -83,8 +84,9 @@ msgstr "Selecteer updatetype:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Favoriete %s lijst in willekeurige volgorde afspelen"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Succesvol gedownload: %d bestanden\\\\\\\\n"
+msgstr "Succesvol gedownload: %d bestanden\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Update afgebroken!"

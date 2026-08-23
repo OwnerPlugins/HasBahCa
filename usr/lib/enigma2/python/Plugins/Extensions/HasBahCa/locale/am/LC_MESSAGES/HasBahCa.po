@@ -43,8 +43,9 @@ msgstr "ስሪቱን በመፈተሽ ላይ ስህተት፡%s"
 msgid "Exit"
 msgstr "ውጣ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "አልተሳካም፡ %d ፋይሎች\\\\\\\\n"
+msgstr "አልተሳካም፡ %d ፋይሎች\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ይህን ምድብ አጣራ..."
@@ -82,8 +83,9 @@ msgstr "የዝማኔ አይነት ይምረጡ፡-"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "በሂደት ላይ ያለ ተወዳጅ %s ዝርዝርን በውዝ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "በተሳካ ሁኔታ ወርዷል፡ %d ፋይሎች\\\\\\\\n"
+msgstr "በተሳካ ሁኔታ ወርዷል፡ %d ፋይሎች\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "ዝማኔ ተቋርጧል!"

@@ -43,8 +43,9 @@ msgstr "កំហុសក្នុងការត្រួតពិនិត្
 msgid "Exit"
 msgstr "ចេញ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "បរាជ័យ៖ ឯកសារ %d\\\\\\\\n"
+msgstr "បរាជ័យ៖ ឯកសារ %d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ត្រងប្រភេទនេះ..."
@@ -82,8 +83,9 @@ msgstr "ជ្រើសរើសប្រភេទអាប់ដេត៖"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "សាប់បញ្ជី %s ដែលចូលចិត្តកំពុងដំណើរការ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "បានទាញយកដោយជោគជ័យ៖ ឯកសារ %d\\\\\\\\n"
+msgstr "បានទាញយកដោយជោគជ័យ៖ ឯកសារ %d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "ការអាប់ដេតត្រូវបានលុបចោល!"

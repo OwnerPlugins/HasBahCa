@@ -44,8 +44,9 @@ msgstr "버전 확인 오류: %s"
 msgid "Exit"
 msgstr "출구"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "실패: %d개 파일\\\\\\\\n"
+msgstr "실패: %d개 파일\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "이 카테고리 필터링..."
@@ -83,8 +84,9 @@ msgstr "업데이트 유형 선택:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "즐겨찾기 %s 목록 셔플 진행 중"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "성공적으로 다운로드되었습니다: %d개 파일\\\\\\\\n"
+msgstr "성공적으로 다운로드되었습니다: %d개 파일\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "업데이트가 중단되었습니다!"

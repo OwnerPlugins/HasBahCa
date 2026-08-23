@@ -44,8 +44,9 @@ msgstr "Lỗi kiểm tra phiên bản: %s"
 msgid "Exit"
 msgstr "Ra"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Không thành công: %d tệp\\\\\\\\n"
+msgstr "Không thành công: %d tệp\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Lọc danh mục này..."
@@ -83,8 +84,9 @@ msgstr "Chọn loại cập nhật:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Đang xáo trộn danh sách %s yêu thích"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Đã tải xuống thành công: %d files\\\\\\\\n"
+msgstr "Đã tải xuống thành công: %d files\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Cập nhật bị hủy bỏ!"

@@ -43,8 +43,9 @@ msgstr "संस्करण जाँच गर्दा त्रुटि: %
 msgid "Exit"
 msgstr "बाहिर निस्कनुहोस्"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "असफल: %d फाइलहरू\\\\\\\\n"
+msgstr "असफल: %d फाइलहरू\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "यो श्रेणी फिल्टर गर्नुहोस्..."
@@ -82,8 +83,9 @@ msgstr "अपडेट प्रकार चयन गर्नुहोस्
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "मनपर्ने %s सूची प्रगतिमा छ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "सफलतापूर्वक डाउनलोड गरियो: %d फाइलहरू\\\\\\\\n"
+msgstr "सफलतापूर्वक डाउनलोड गरियो: %d फाइलहरू\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "अपडेट रद्द गरियो!"

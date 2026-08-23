@@ -43,8 +43,9 @@ msgstr "Error sa pagsuri sa bersyon: %s"
 msgid "Exit"
 msgstr "Lumabas"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Nabigo: %d file\\\\\\\\n"
+msgstr "Nabigo: %d file\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "I-filter ang kategoryang ito..."
@@ -82,8 +83,9 @@ msgstr "Piliin ang uri ng pag-update:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "I-shuffle ang Paboritong %s na Listahan sa Isinasagawa"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Matagumpay na na-download: %d file\\\\\\\\n"
+msgstr "Matagumpay na na-download: %d file\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Na-abort ang Update!"

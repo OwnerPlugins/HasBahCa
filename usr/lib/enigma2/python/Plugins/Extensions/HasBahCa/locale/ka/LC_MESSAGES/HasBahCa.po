@@ -43,8 +43,9 @@ msgstr "შეცდომა ვერსიის შემოწმები�
 msgid "Exit"
 msgstr "გასვლა"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "ვერ მოხერხდა: %d ფაილი\\\\\\\\n"
+msgstr "ვერ მოხერხდა: %d ფაილი\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ამ კატეგორიის გაფილტვრა..."
@@ -82,8 +83,9 @@ msgstr "აირჩიეთ განახლების ტიპი:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "რჩეული %s სიის არევა მიმდინარეობს"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "წარმატებით ჩამოიტვირთა: %d ფაილი\\\\\\\\n"
+msgstr "წარმატებით ჩამოიტვირთა: %d ფაილი\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "განახლება შეწყდა!"

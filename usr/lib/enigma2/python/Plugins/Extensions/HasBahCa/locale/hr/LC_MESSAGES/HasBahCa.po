@@ -44,8 +44,9 @@ msgstr "Pogreška provjere verzije: %s"
 msgid "Exit"
 msgstr "Izlaz"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Neuspješno: %d datoteke\\\\\\\\n"
+msgstr "Neuspješno: %d datoteke\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtriraj ovu kategoriju..."
@@ -83,8 +84,9 @@ msgstr "Odaberite vrstu ažuriranja:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Popis favorita %s u tijeku"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Uspješno preuzeto: %d datoteke\\\\\\\\n"
+msgstr "Uspješno preuzeto: %d datoteke\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Ažuriranje prekinuto!"

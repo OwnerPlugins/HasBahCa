@@ -43,8 +43,9 @@ msgstr "ਸੰਸਕਰਣ ਦੀ ਜਾਂਚ ਕਰਨ ਵਿੱਚ ਤਰੁ�
 msgid "Exit"
 msgstr "ਨਿਕਾਸ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "ਅਸਫਲ: %d ਫ਼ਾਈਲਾਂ\\\\\\\\n"
+msgstr "ਅਸਫਲ: %d ਫ਼ਾਈਲਾਂ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ਇਸ ਸ਼੍ਰੇਣੀ ਨੂੰ ਫਿਲਟਰ ਕਰੋ..."
@@ -82,8 +83,9 @@ msgstr "ਅੱਪਡੇਟ ਕਿਸਮ ਚੁਣੋ:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ਪ੍ਰਗਤੀ ਵਿੱਚ ਮਨਪਸੰਦ %s ਸੂਚੀ ਨੂੰ ਬਦਲੋ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "ਸਫਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ: %d ਫ਼ਾਈਲਾਂ\\\\\\\\n"
+msgstr "ਸਫਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ: %d ਫ਼ਾਈਲਾਂ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "ਅੱਪਡੇਟ ਅਧੂਰਾ ਛੱਡਿਆ ਗਿਆ!"

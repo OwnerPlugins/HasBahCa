@@ -43,8 +43,9 @@ msgstr "Ralat menyemak versi: %s"
 msgid "Exit"
 msgstr "Keluar"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Gagal: %d fail\\\\\\\\n"
+msgstr "Gagal: %d fail\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Tapis kategori ini..."
@@ -82,8 +83,9 @@ msgstr "Pilih jenis kemas kini:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Kocok Senarai %s Kegemaran Sedang Dijalankan"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Berjaya dimuat turun: %d fail\\\\\\\\n"
+msgstr "Berjaya dimuat turun: %d fail\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Kemas Kini Dibatalkan!"

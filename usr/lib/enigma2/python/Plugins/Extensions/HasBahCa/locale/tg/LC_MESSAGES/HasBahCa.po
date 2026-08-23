@@ -43,8 +43,9 @@ msgstr "Хатогӣ дар тафтиши версия: %s"
 msgid "Exit"
 msgstr "Баромадгоҳ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Муваффақ шуд: %d файл\\\\\\\\n"
+msgstr "Муваффақ шуд: %d файл\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Филтр кардани ин категория..."
@@ -82,8 +83,9 @@ msgstr "Навъи навсозиро интихоб кунед:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Рӯйхати %s дӯстдоштаро омехта кунед"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Бомуваффақият зеркашӣ карда шуд: %d файл\\\\\\\\n"
+msgstr "Бомуваффақият зеркашӣ карда шуд: %d файл\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Навсозӣ қатъ карда шуд!"

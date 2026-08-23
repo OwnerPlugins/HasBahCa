@@ -44,8 +44,9 @@ msgstr "Eroare la verificarea versiunii: %s"
 msgid "Exit"
 msgstr "Ieșire"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Eșuat: %d fișiere\\\\\\\\n"
+msgstr "Eșuat: %d fișiere\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrați această categorie..."
@@ -83,8 +84,9 @@ msgstr "Selectați tipul de actualizare:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Amestecă lista %s favorite în curs"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Descărcat cu succes: %d fișiere\\\\\\\\n"
+msgstr "Descărcat cu succes: %d fișiere\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Actualizare a fost anulată!"

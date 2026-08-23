@@ -43,8 +43,9 @@ msgstr "خطأ في التحقق من الإصدار: %s"
 msgid "Exit"
 msgstr "مخرج"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "فشل: %d ملف\\\\\\\\n"
+msgstr "فشل: %d ملف\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "تصفية هذه الفئة..."
@@ -82,8 +83,9 @@ msgstr "حدد نوع التحديث:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "تبديل قائمة %s المفضلة قيد التقدم"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "تم التنزيل بنجاح: %d ملف\\\\\\\\n"
+msgstr "تم التنزيل بنجاح: %d ملف\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "تم إحباط التحديث!"

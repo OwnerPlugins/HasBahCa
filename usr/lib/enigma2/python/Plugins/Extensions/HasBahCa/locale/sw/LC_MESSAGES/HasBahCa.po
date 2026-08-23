@@ -43,8 +43,9 @@ msgstr "Hitilafu katika kuangalia toleo: %s"
 msgid "Exit"
 msgstr "Utgång"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Imeshindwa: faili %d\\\\\\\\n"
+msgstr "Imeshindwa: faili %d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Chuja aina hii..."
@@ -82,8 +83,9 @@ msgstr "Chagua aina ya sasisho:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Changanya Orodha ya %s Unayoipenda Inaendelea"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Imepakuliwa kwa ufanisi: faili %d\\\\\\\\n"
+msgstr "Imepakuliwa kwa ufanisi: faili %d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Usasishaji Umeghairiwa!"

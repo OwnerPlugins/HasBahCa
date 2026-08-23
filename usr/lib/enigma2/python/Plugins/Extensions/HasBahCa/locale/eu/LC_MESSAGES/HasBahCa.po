@@ -43,8 +43,9 @@ msgstr "Errorea bertsioa egiaztatzean: %s"
 msgid "Exit"
 msgstr "Irten"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Huts egin du: %d fitxategi\\\\\\\\n"
+msgstr "Huts egin du: %d fitxategi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Iragazi kategoria hau..."
@@ -82,8 +83,9 @@ msgstr "Hautatu eguneratze mota:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Nahastu %s gogokoen zerrenda Abian"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Ondo deskargatu dira: %d fitxategi\\\\\\\\n"
+msgstr "Ondo deskargatu dira: %d fitxategi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Eguneratzea bertan behera utzi da!"

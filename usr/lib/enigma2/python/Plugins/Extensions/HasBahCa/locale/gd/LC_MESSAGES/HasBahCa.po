@@ -43,8 +43,9 @@ msgstr "Thachair mearachd le sgrùdadh an tionndaidh: %s"
 msgid "Exit"
 msgstr "Ar-a-mach"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Dh'fhàillig: %d faidhle\\\\\\\\n"
+msgstr "Dh'fhàillig: %d faidhle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Criathraich an roinn seo..."
@@ -82,8 +83,9 @@ msgstr "Tagh an seòrsa ùrachaidh:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Suidhich an liosta %s as fheàrr leat a’ dol air adhart"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Chaidh a luchdachadh a-nuas gu soirbheachail: %d faidhle\\\\\\\\n"
+msgstr "Chaidh a luchdachadh a-nuas gu soirbheachail: %d faidhle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Ùrachadh air a sguireadh!"
