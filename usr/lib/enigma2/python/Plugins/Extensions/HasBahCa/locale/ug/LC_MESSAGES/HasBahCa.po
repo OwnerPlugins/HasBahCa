@@ -43,8 +43,9 @@ msgstr "تەكشۈرۈش خاتالىقى:% s"
 msgid "Exit"
 msgstr "چىقىش"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "مەغلۇپ بولدى:% d ھۆججەتلەر \\\\\\\\ n"
+msgstr "مەغلۇپ بولدى:% d ھۆججەتلەر \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "Filter this category..."
 msgstr "بۇ تۈرنى سۈزۈڭ ..."
@@ -82,8 +83,9 @@ msgstr "يېڭىلاش تىپىنى تاللاڭ:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ئالغا ئىلگىرىلەۋاتقان ئەڭ ياخشى كۆرىدىغان% s تىزىملىكى"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "مۇۋەپپەقىيەتلىك چۈشۈرۈلدى:% d ھۆججەت \\\\\\\\ n"
+msgstr "مۇۋەپپەقىيەتلىك چۈشۈرۈلدى:% d ھۆججەت \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "Update Aborted!"
 msgstr "يېڭىلانغان ئەمەلدىن قالدۇرۇلدى!"

@@ -43,8 +43,9 @@ msgstr "Gabim gjatë kontrollit të versionit: %s"
 msgid "Exit"
 msgstr "Dilni"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Dështoi: %d skedar\\\\\\\\n"
+msgstr "Dështoi: %d skedar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtro këtë kategori..."
@@ -82,8 +83,9 @@ msgstr "Zgjidhni llojin e përditësimit:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Përzier listën e %s të preferuar në vazhdim"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "U shkarkua me sukses: %d skedar\\\\\\\\n"
+msgstr "U shkarkua me sukses: %d skedar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Përditësimi u ndërpre!"

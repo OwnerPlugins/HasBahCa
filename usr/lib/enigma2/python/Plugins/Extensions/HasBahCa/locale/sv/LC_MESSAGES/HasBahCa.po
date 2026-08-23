@@ -44,8 +44,9 @@ msgstr "Fel vid kontroll av version: %s"
 msgid "Exit"
 msgstr "Utgång"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Misslyckades: %d filer\\\\\\\\n"
+msgstr "Misslyckades: %d filer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrera den här kategorin..."
@@ -83,8 +84,9 @@ msgstr "Välj uppdateringstyp:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Blanda favoritlistan %s pågår"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Laddat ned: %d filer\\\\\\\\n"
+msgstr "Laddat ned: %d filer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Uppdatering avbröts!"

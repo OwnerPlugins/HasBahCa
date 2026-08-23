@@ -44,8 +44,9 @@ msgstr "バージョンチェック中にエラーが発生しました: %s"
 msgid "Exit"
 msgstr "出口"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "失敗: %d ファイル\\\\\\\\n"
+msgstr "失敗: %d ファイル\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "このカテゴリをフィルタリング..."
@@ -83,8 +84,9 @@ msgstr "更新タイプを選択してください:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "お気に入り %s リストのシャッフルが進行中です"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "正常にダウンロードされました: %d ファイル\\\\\\\\n"
+msgstr "正常にダウンロードされました: %d ファイル\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "アップデートが中止されました!"

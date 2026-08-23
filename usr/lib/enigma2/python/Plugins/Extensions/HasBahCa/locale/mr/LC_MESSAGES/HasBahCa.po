@@ -43,8 +43,9 @@ msgstr "आवृत्ती तपासताना त्रुटी: %s"
 msgid "Exit"
 msgstr "बाहेर पडा"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "अयशस्वी: %d फाइल्स\\\\\\\\n"
+msgstr "अयशस्वी: %d फाइल्स\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ही श्रेणी फिल्टर करा..."
@@ -82,8 +83,9 @@ msgstr "अद्यतन प्रकार निवडा:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "आवडीची %s यादी शफल करा प्रगतीपथावर"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "यशस्वीरित्या डाउनलोड केले: %d फाइल्स\\\\\\\\n"
+msgstr "यशस्वीरित्या डाउनलोड केले: %d फाइल्स\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "अद्यतन रद्द केले!"

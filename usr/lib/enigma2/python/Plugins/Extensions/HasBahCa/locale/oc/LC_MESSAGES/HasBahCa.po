@@ -43,8 +43,9 @@ msgstr "Error de verificacion de la version : %s"
 msgid "Exit"
 msgstr "Sortida"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Fracàs : %d fichièrs\\\\\\\\n"
+msgstr "Fracàs : %d fichièrs\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrar aquesta categoria..."
@@ -82,8 +83,9 @@ msgstr "Seleccionatz lo tipe de mesa a jorn :"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Barrejar la lista de favorits %s en cors"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Telecargat amb succès : %d fichièrs\\\\\\\\n"
+msgstr "Telecargat amb succès : %d fichièrs\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Mesa a jorn avortada!"

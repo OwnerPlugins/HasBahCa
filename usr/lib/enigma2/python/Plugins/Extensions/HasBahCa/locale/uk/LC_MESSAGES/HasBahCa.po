@@ -44,8 +44,9 @@ msgstr "Помилка перевірки версії: %s"
 msgid "Exit"
 msgstr "Вихід"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Помилка: %d файлів\\\\\\\\n"
+msgstr "Помилка: %d файлів\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Відфільтрувати цю категорію..."
@@ -83,8 +84,9 @@ msgstr "Виберіть тип оновлення:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Виконується перемішування списку улюблених %s"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Успішно завантажено: %d файлів\\\\\\\\n"
+msgstr "Успішно завантажено: %d файлів\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Оновлення скасовано!"

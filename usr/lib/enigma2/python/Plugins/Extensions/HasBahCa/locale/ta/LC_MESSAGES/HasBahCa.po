@@ -43,8 +43,9 @@ msgstr "பதிப்பைச் சரிபார்ப்பதில் �
 msgid "Exit"
 msgstr "வெளியேறு"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "தோல்வி: %d கோப்புகள்\\\\\\\\n"
+msgstr "தோல்வி: %d கோப்புகள்\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "இந்த வகையை வடிகட்டவும்..."
@@ -82,8 +83,9 @@ msgstr "புதுப்பிப்பு வகையைத் தேர்�
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "பிடித்த %s பட்டியலை மாற்றவும்"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "பதிவிறக்கம் செய்யப்பட்டது: %d கோப்புகள்\\\\\\\\n"
+msgstr "பதிவிறக்கம் செய்யப்பட்டது: %d கோப்புகள்\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"

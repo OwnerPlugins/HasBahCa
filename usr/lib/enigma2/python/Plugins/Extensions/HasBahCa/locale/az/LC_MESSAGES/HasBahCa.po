@@ -43,8 +43,9 @@ msgstr "Versiya yoxlanarkən xəta: %s"
 msgid "Exit"
 msgstr "Çıx"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Uğursuz: %d fayl\\\\\\\\n"
+msgstr "Uğursuz: %d fayl\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Bu kateqoriyanı filtrləyin..."
@@ -82,8 +83,9 @@ msgstr "Yeniləmə növünü seçin:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Sevimli %s Siyahısını qarışdırın"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Uğurla endirildi: %d fayl\\\\\\\\n"
+msgstr "Uğurla endirildi: %d fayl\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Yeniləmə dayandırıldı!"

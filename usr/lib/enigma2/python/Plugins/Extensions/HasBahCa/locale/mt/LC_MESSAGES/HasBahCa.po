@@ -43,8 +43,9 @@ msgstr "Żball fil-verifika tal-verżjoni: %s"
 msgid "Exit"
 msgstr "Ħruġ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Falla: %d fajls\\\\\\\\n"
+msgstr "Falla: %d fajls\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Iffiltra din il-kategorija..."
@@ -82,8 +83,9 @@ msgstr "Agħżel it-tip ta' aġġornament:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Ħajt il-Lista %s Favoriti fil-Progress"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Niżżel b'suċċess: %d fajls\\\\\\\\n"
+msgstr "Niżżel b'suċċess: %d fajls\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Aġġornament Abortat!"

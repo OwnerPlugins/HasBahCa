@@ -44,8 +44,9 @@ msgstr "Erro ao verificar a versão: %s"
 msgid "Exit"
 msgstr "Saída"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Falha: %d arquivos\\\\\\\\n"
+msgstr "Falha: %d arquivos\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtrar esta categoria..."
@@ -83,8 +84,9 @@ msgstr "Selecione o tipo de atualização:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Embaralhar lista de favoritos %s em andamento"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Baixado com sucesso: %d arquivos\\\\\\\\n"
+msgstr "Baixado com sucesso: %d arquivos\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Atualização abortada!"

@@ -44,8 +44,9 @@ msgstr "Σφάλμα κατά τον έλεγχο της έκδοσης: %s"
 msgid "Exit"
 msgstr "Εξοδος"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Απέτυχε: %d αρχεία\\\\\\\\n"
+msgstr "Απέτυχε: %d αρχεία\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Φιλτράρισμα αυτής της κατηγορίας..."
@@ -83,8 +84,9 @@ msgstr "Επιλέξτε τύπο ενημέρωσης:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Τυχαία αναπαραγωγή της λίστας αγαπημένων %s σε εξέλιξη"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Έγινε επιτυχής λήψη: %d αρχεία\\\\\\\\n"
+msgstr "Έγινε επιτυχής λήψη: %d αρχεία\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Η ενημέρωση ματαιώθηκε!"

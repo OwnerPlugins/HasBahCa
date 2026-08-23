@@ -43,8 +43,9 @@ msgstr "Villa við að athuga útgáfu: %s"
 msgid "Exit"
 msgstr "Hætta"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Mistókst: %d skrár\\\\\\\\n"
+msgstr "Mistókst: %d skrár\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Sía þennan flokk..."
@@ -82,8 +83,9 @@ msgstr "Veldu uppfærslugerð:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Stokka uppáhalds %s lista í gangi"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Hlaðið niður: %d skrár\\\\\\\\n"
+msgstr "Hlaðið niður: %d skrár\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Uppfærsla hætt!"

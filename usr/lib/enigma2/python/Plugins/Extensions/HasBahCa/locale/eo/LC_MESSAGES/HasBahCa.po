@@ -44,8 +44,9 @@ msgstr "Eraro kontrolante version: %s"
 msgid "Exit"
 msgstr "Eliro"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Malsukcesis: %d dosieroj\\\\\\\\n"
+msgstr "Malsukcesis: %d dosieroj\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Filtri ĉi tiun kategorion..."
@@ -83,8 +84,9 @@ msgstr "Elektu tipon de ĝisdatigo:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Miŝu la Liston de Favoritaj %s en Progreso"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Sukcese elŝutite: %d dosieroj\\\\\\\\n"
+msgstr "Sukcese elŝutite: %d dosieroj\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Ĝisdatigo interrompita!"

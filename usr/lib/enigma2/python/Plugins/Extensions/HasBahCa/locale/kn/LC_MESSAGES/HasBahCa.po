@@ -43,8 +43,9 @@ msgstr "ಆವೃತ್ತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಲ�
 msgid "Exit"
 msgstr "ನಿರ್ಗಮಿಸಿ"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "ವಿಫಲವಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\\\\\\\\n"
+msgstr "ವಿಫಲವಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "ಈ ವರ್ಗವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ..."
@@ -82,8 +83,9 @@ msgstr "ನವೀಕರಣ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮ�
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ಮೆಚ್ಚಿನ %s ಪಟ್ಟಿಯನ್ನು ಷಫಲ್ ಮಾಡಿ ಪ್ರಗತಿಯಲ್ಲಿದೆ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "ಯಶಸ್ವಿಯಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\\\\\\\\n"
+msgstr "ಯಶಸ್ವಿಯಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ: %d ಫೈಲ್‌ಗಳು\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "ನವೀಕರಣವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ!"

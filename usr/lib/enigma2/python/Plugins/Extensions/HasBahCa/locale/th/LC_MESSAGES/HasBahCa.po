@@ -43,8 +43,9 @@ msgstr "เกิดข้อผิดพลาดในการตรวจส
 msgid "Exit"
 msgstr "ออก"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "ล้มเหลว: %d ไฟล์\\\\\\\\n"
+msgstr "ล้มเหลว: %d ไฟล์\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "กรองหมวดหมู่นี้..."
@@ -82,8 +83,9 @@ msgstr "เลือกประเภทการอัพเดต:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "สุ่มรายการ %s รายการโปรดอยู่ระหว่างดำเนินการ"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "ดาวน์โหลดสำเร็จแล้ว: %d ไฟล์\\\\\\\\n"
+msgstr "ดาวน์โหลดสำเร็จแล้ว: %d ไฟล์\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "การอัปเดตถูกยกเลิก!"

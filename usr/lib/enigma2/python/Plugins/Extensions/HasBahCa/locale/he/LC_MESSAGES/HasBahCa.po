@@ -44,8 +44,9 @@ msgstr "שגיאה בבדיקת גרסה: %s"
 msgid "Exit"
 msgstr "יְצִיאָה"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "נכשל: %d קבצים\\\\\\\\n"
+msgstr "נכשל: %d קבצים\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "סנן את הקטגוריה הזו..."
@@ -83,8 +84,9 @@ msgstr "בחר סוג עדכון:"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "ערבב את רשימת %s המועדפים בתהליך"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "הורד בהצלחה: %d קבצים\\\\\\\\n"
+msgstr "הורד בהצלחה: %d קבצים\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "העדכון בוטל!"

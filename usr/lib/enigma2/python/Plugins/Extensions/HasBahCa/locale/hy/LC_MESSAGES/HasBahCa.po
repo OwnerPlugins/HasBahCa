@@ -43,8 +43,9 @@ msgstr "Չհաջողվեց ստուգել տարբերակը՝ %s"
 msgid "Exit"
 msgstr "Ելք"
 
+#, fuzzy
 msgid "Failed: %d files\\\\\\\\n"
-msgstr "Չհաջողվեց՝ %d ֆայլ\\\\\\\\n"
+msgstr "Չհաջողվեց՝ %d ֆայլ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Filter this category..."
 msgstr "Զտել այս կատեգորիան..."
@@ -82,8 +83,9 @@ msgstr "Ընտրեք թարմացման տեսակը՝"
 msgid "Shuffle Favorite %s List in Progress"
 msgstr "Խառնել սիրված %s ցուցակն ընթացքի մեջ է"
 
+#, fuzzy
 msgid "Successfully downloaded: %d files\\\\\\\\n"
-msgstr "Հաջողությամբ ներբեռնվեց՝ %d ֆայլ\\\\\\\\n"
+msgstr "Հաջողությամբ ներբեռնվեց՝ %d ֆայլ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Update Aborted!"
 msgstr "Թարմացումը ընդհատվեց:"
